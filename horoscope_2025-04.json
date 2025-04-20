@@ -1,0 +1,19 @@
+{
+  "mois": "2025-04",
+  "horoscopes": {
+    "2025-04-20": {
+      "belier": "Tu démarres la journée plein d'énergie.",
+      "taureau": "Reste concentré sur tes objectifs.",
+      "gemeaux": "Des discussions intéressantes s’annoncent.",
+      "cancer": "L’intuition sera ta force.",
+      "lion": "Affirme-toi sans arrogance.",
+      "vierge": "Organise ton planning avec rigueur.",
+      "balance": "Un vent d’équilibre souffle sur ta journée.",
+      "scorpion": "Tu es prêt à percer des mystères.",
+      "sagittaire": "Un projet pourrait se débloquer.",
+      "capricorne": "Ton sérieux est ta meilleure arme.",
+      "verseau": "Crée, innove, exprime-toi.",
+      "poissons": "Ta sensibilité est une force."
+    }
+  }
+}
