@@ -1,19 +1,2585 @@
 {
   "mois": "2025-04",
   "horoscopes": {
+    "2025-04-01": {
+      "belier": {
+        "general": "Belier : Journée pleine de surprises.",
+        "amour": "Belier : L’amour pourrait frapper à ta porte.",
+        "travail": "Belier : Avance avec détermination.",
+        "sante": "Belier : Prends soin de toi.",
+        "conseil": "Belier : Reste à l'écoute de ton intuition."
+      },
+      "taureau": {
+        "general": "Taureau : Journée pleine de surprises.",
+        "amour": "Taureau : L’amour pourrait frapper à ta porte.",
+        "travail": "Taureau : Avance avec détermination.",
+        "sante": "Taureau : Prends soin de toi.",
+        "conseil": "Taureau : Reste à l'écoute de ton intuition."
+      },
+      "gemeaux": {
+        "general": "Gemeaux : Journée pleine de surprises.",
+        "amour": "Gemeaux : L’amour pourrait frapper à ta porte.",
+        "travail": "Gemeaux : Avance avec détermination.",
+        "sante": "Gemeaux : Prends soin de toi.",
+        "conseil": "Gemeaux : Reste à l'écoute de ton intuition."
+      },
+      "cancer": {
+        "general": "Cancer : Journée pleine de surprises.",
+        "amour": "Cancer : L’amour pourrait frapper à ta porte.",
+        "travail": "Cancer : Avance avec détermination.",
+        "sante": "Cancer : Prends soin de toi.",
+        "conseil": "Cancer : Reste à l'écoute de ton intuition."
+      },
+      "lion": {
+        "general": "Lion : Journée pleine de surprises.",
+        "amour": "Lion : L’amour pourrait frapper à ta porte.",
+        "travail": "Lion : Avance avec détermination.",
+        "sante": "Lion : Prends soin de toi.",
+        "conseil": "Lion : Reste à l'écoute de ton intuition."
+      },
+      "vierge": {
+        "general": "Vierge : Journée pleine de surprises.",
+        "amour": "Vierge : L’amour pourrait frapper à ta porte.",
+        "travail": "Vierge : Avance avec détermination.",
+        "sante": "Vierge : Prends soin de toi.",
+        "conseil": "Vierge : Reste à l'écoute de ton intuition."
+      },
+      "balance": {
+        "general": "Balance : Journée pleine de surprises.",
+        "amour": "Balance : L’amour pourrait frapper à ta porte.",
+        "travail": "Balance : Avance avec détermination.",
+        "sante": "Balance : Prends soin de toi.",
+        "conseil": "Balance : Reste à l'écoute de ton intuition."
+      },
+      "scorpion": {
+        "general": "Scorpion : Journée pleine de surprises.",
+        "amour": "Scorpion : L’amour pourrait frapper à ta porte.",
+        "travail": "Scorpion : Avance avec détermination.",
+        "sante": "Scorpion : Prends soin de toi.",
+        "conseil": "Scorpion : Reste à l'écoute de ton intuition."
+      },
+      "sagittaire": {
+        "general": "Sagittaire : Journée pleine de surprises.",
+        "amour": "Sagittaire : L’amour pourrait frapper à ta porte.",
+        "travail": "Sagittaire : Avance avec détermination.",
+        "sante": "Sagittaire : Prends soin de toi.",
+        "conseil": "Sagittaire : Reste à l'écoute de ton intuition."
+      },
+      "capricorne": {
+        "general": "Capricorne : Journée pleine de surprises.",
+        "amour": "Capricorne : L’amour pourrait frapper à ta porte.",
+        "travail": "Capricorne : Avance avec détermination.",
+        "sante": "Capricorne : Prends soin de toi.",
+        "conseil": "Capricorne : Reste à l'écoute de ton intuition."
+      },
+      "verseau": {
+        "general": "Verseau : Journée pleine de surprises.",
+        "amour": "Verseau : L’amour pourrait frapper à ta porte.",
+        "travail": "Verseau : Avance avec détermination.",
+        "sante": "Verseau : Prends soin de toi.",
+        "conseil": "Verseau : Reste à l'écoute de ton intuition."
+      },
+      "poissons": {
+        "general": "Poissons : Journée pleine de surprises.",
+        "amour": "Poissons : L’amour pourrait frapper à ta porte.",
+        "travail": "Poissons : Avance avec détermination.",
+        "sante": "Poissons : Prends soin de toi.",
+        "conseil": "Poissons : Reste à l'écoute de ton intuition."
+      }
+    },
+    "2025-04-02": {
+      "belier": {
+        "general": "Belier : Journée pleine de surprises.",
+        "amour": "Belier : L’amour pourrait frapper à ta porte.",
+        "travail": "Belier : Avance avec détermination.",
+        "sante": "Belier : Prends soin de toi.",
+        "conseil": "Belier : Reste à l'écoute de ton intuition."
+      },
+      "taureau": {
+        "general": "Taureau : Journée pleine de surprises.",
+        "amour": "Taureau : L’amour pourrait frapper à ta porte.",
+        "travail": "Taureau : Avance avec détermination.",
+        "sante": "Taureau : Prends soin de toi.",
+        "conseil": "Taureau : Reste à l'écoute de ton intuition."
+      },
+      "gemeaux": {
+        "general": "Gemeaux : Journée pleine de surprises.",
+        "amour": "Gemeaux : L’amour pourrait frapper à ta porte.",
+        "travail": "Gemeaux : Avance avec détermination.",
+        "sante": "Gemeaux : Prends soin de toi.",
+        "conseil": "Gemeaux : Reste à l'écoute de ton intuition."
+      },
+      "cancer": {
+        "general": "Cancer : Journée pleine de surprises.",
+        "amour": "Cancer : L’amour pourrait frapper à ta porte.",
+        "travail": "Cancer : Avance avec détermination.",
+        "sante": "Cancer : Prends soin de toi.",
+        "conseil": "Cancer : Reste à l'écoute de ton intuition."
+      },
+      "lion": {
+        "general": "Lion : Journée pleine de surprises.",
+        "amour": "Lion : L’amour pourrait frapper à ta porte.",
+        "travail": "Lion : Avance avec détermination.",
+        "sante": "Lion : Prends soin de toi.",
+        "conseil": "Lion : Reste à l'écoute de ton intuition."
+      },
+      "vierge": {
+        "general": "Vierge : Journée pleine de surprises.",
+        "amour": "Vierge : L’amour pourrait frapper à ta porte.",
+        "travail": "Vierge : Avance avec détermination.",
+        "sante": "Vierge : Prends soin de toi.",
+        "conseil": "Vierge : Reste à l'écoute de ton intuition."
+      },
+      "balance": {
+        "general": "Balance : Journée pleine de surprises.",
+        "amour": "Balance : L’amour pourrait frapper à ta porte.",
+        "travail": "Balance : Avance avec détermination.",
+        "sante": "Balance : Prends soin de toi.",
+        "conseil": "Balance : Reste à l'écoute de ton intuition."
+      },
+      "scorpion": {
+        "general": "Scorpion : Journée pleine de surprises.",
+        "amour": "Scorpion : L’amour pourrait frapper à ta porte.",
+        "travail": "Scorpion : Avance avec détermination.",
+        "sante": "Scorpion : Prends soin de toi.",
+        "conseil": "Scorpion : Reste à l'écoute de ton intuition."
+      },
+      "sagittaire": {
+        "general": "Sagittaire : Journée pleine de surprises.",
+        "amour": "Sagittaire : L’amour pourrait frapper à ta porte.",
+        "travail": "Sagittaire : Avance avec détermination.",
+        "sante": "Sagittaire : Prends soin de toi.",
+        "conseil": "Sagittaire : Reste à l'écoute de ton intuition."
+      },
+      "capricorne": {
+        "general": "Capricorne : Journée pleine de surprises.",
+        "amour": "Capricorne : L’amour pourrait frapper à ta porte.",
+        "travail": "Capricorne : Avance avec détermination.",
+        "sante": "Capricorne : Prends soin de toi.",
+        "conseil": "Capricorne : Reste à l'écoute de ton intuition."
+      },
+      "verseau": {
+        "general": "Verseau : Journée pleine de surprises.",
+        "amour": "Verseau : L’amour pourrait frapper à ta porte.",
+        "travail": "Verseau : Avance avec détermination.",
+        "sante": "Verseau : Prends soin de toi.",
+        "conseil": "Verseau : Reste à l'écoute de ton intuition."
+      },
+      "poissons": {
+        "general": "Poissons : Journée pleine de surprises.",
+        "amour": "Poissons : L’amour pourrait frapper à ta porte.",
+        "travail": "Poissons : Avance avec détermination.",
+        "sante": "Poissons : Prends soin de toi.",
+        "conseil": "Poissons : Reste à l'écoute de ton intuition."
+      }
+    },
+    "2025-04-03": {
+      "belier": {
+        "general": "Belier : Journée pleine de surprises.",
+        "amour": "Belier : L’amour pourrait frapper à ta porte.",
+        "travail": "Belier : Avance avec détermination.",
+        "sante": "Belier : Prends soin de toi.",
+        "conseil": "Belier : Reste à l'écoute de ton intuition."
+      },
+      "taureau": {
+        "general": "Taureau : Journée pleine de surprises.",
+        "amour": "Taureau : L’amour pourrait frapper à ta porte.",
+        "travail": "Taureau : Avance avec détermination.",
+        "sante": "Taureau : Prends soin de toi.",
+        "conseil": "Taureau : Reste à l'écoute de ton intuition."
+      },
+      "gemeaux": {
+        "general": "Gemeaux : Journée pleine de surprises.",
+        "amour": "Gemeaux : L’amour pourrait frapper à ta porte.",
+        "travail": "Gemeaux : Avance avec détermination.",
+        "sante": "Gemeaux : Prends soin de toi.",
+        "conseil": "Gemeaux : Reste à l'écoute de ton intuition."
+      },
+      "cancer": {
+        "general": "Cancer : Journée pleine de surprises.",
+        "amour": "Cancer : L’amour pourrait frapper à ta porte.",
+        "travail": "Cancer : Avance avec détermination.",
+        "sante": "Cancer : Prends soin de toi.",
+        "conseil": "Cancer : Reste à l'écoute de ton intuition."
+      },
+      "lion": {
+        "general": "Lion : Journée pleine de surprises.",
+        "amour": "Lion : L’amour pourrait frapper à ta porte.",
+        "travail": "Lion : Avance avec détermination.",
+        "sante": "Lion : Prends soin de toi.",
+        "conseil": "Lion : Reste à l'écoute de ton intuition."
+      },
+      "vierge": {
+        "general": "Vierge : Journée pleine de surprises.",
+        "amour": "Vierge : L’amour pourrait frapper à ta porte.",
+        "travail": "Vierge : Avance avec détermination.",
+        "sante": "Vierge : Prends soin de toi.",
+        "conseil": "Vierge : Reste à l'écoute de ton intuition."
+      },
+      "balance": {
+        "general": "Balance : Journée pleine de surprises.",
+        "amour": "Balance : L’amour pourrait frapper à ta porte.",
+        "travail": "Balance : Avance avec détermination.",
+        "sante": "Balance : Prends soin de toi.",
+        "conseil": "Balance : Reste à l'écoute de ton intuition."
+      },
+      "scorpion": {
+        "general": "Scorpion : Journée pleine de surprises.",
+        "amour": "Scorpion : L’amour pourrait frapper à ta porte.",
+        "travail": "Scorpion : Avance avec détermination.",
+        "sante": "Scorpion : Prends soin de toi.",
+        "conseil": "Scorpion : Reste à l'écoute de ton intuition."
+      },
+      "sagittaire": {
+        "general": "Sagittaire : Journée pleine de surprises.",
+        "amour": "Sagittaire : L’amour pourrait frapper à ta porte.",
+        "travail": "Sagittaire : Avance avec détermination.",
+        "sante": "Sagittaire : Prends soin de toi.",
+        "conseil": "Sagittaire : Reste à l'écoute de ton intuition."
+      },
+      "capricorne": {
+        "general": "Capricorne : Journée pleine de surprises.",
+        "amour": "Capricorne : L’amour pourrait frapper à ta porte.",
+        "travail": "Capricorne : Avance avec détermination.",
+        "sante": "Capricorne : Prends soin de toi.",
+        "conseil": "Capricorne : Reste à l'écoute de ton intuition."
+      },
+      "verseau": {
+        "general": "Verseau : Journée pleine de surprises.",
+        "amour": "Verseau : L’amour pourrait frapper à ta porte.",
+        "travail": "Verseau : Avance avec détermination.",
+        "sante": "Verseau : Prends soin de toi.",
+        "conseil": "Verseau : Reste à l'écoute de ton intuition."
+      },
+      "poissons": {
+        "general": "Poissons : Journée pleine de surprises.",
+        "amour": "Poissons : L’amour pourrait frapper à ta porte.",
+        "travail": "Poissons : Avance avec détermination.",
+        "sante": "Poissons : Prends soin de toi.",
+        "conseil": "Poissons : Reste à l'écoute de ton intuition."
+      }
+    },
+    "2025-04-04": {
+      "belier": {
+        "general": "Belier : Journée pleine de surprises.",
+        "amour": "Belier : L’amour pourrait frapper à ta porte.",
+        "travail": "Belier : Avance avec détermination.",
+        "sante": "Belier : Prends soin de toi.",
+        "conseil": "Belier : Reste à l'écoute de ton intuition."
+      },
+      "taureau": {
+        "general": "Taureau : Journée pleine de surprises.",
+        "amour": "Taureau : L’amour pourrait frapper à ta porte.",
+        "travail": "Taureau : Avance avec détermination.",
+        "sante": "Taureau : Prends soin de toi.",
+        "conseil": "Taureau : Reste à l'écoute de ton intuition."
+      },
+      "gemeaux": {
+        "general": "Gemeaux : Journée pleine de surprises.",
+        "amour": "Gemeaux : L’amour pourrait frapper à ta porte.",
+        "travail": "Gemeaux : Avance avec détermination.",
+        "sante": "Gemeaux : Prends soin de toi.",
+        "conseil": "Gemeaux : Reste à l'écoute de ton intuition."
+      },
+      "cancer": {
+        "general": "Cancer : Journée pleine de surprises.",
+        "amour": "Cancer : L’amour pourrait frapper à ta porte.",
+        "travail": "Cancer : Avance avec détermination.",
+        "sante": "Cancer : Prends soin de toi.",
+        "conseil": "Cancer : Reste à l'écoute de ton intuition."
+      },
+      "lion": {
+        "general": "Lion : Journée pleine de surprises.",
+        "amour": "Lion : L’amour pourrait frapper à ta porte.",
+        "travail": "Lion : Avance avec détermination.",
+        "sante": "Lion : Prends soin de toi.",
+        "conseil": "Lion : Reste à l'écoute de ton intuition."
+      },
+      "vierge": {
+        "general": "Vierge : Journée pleine de surprises.",
+        "amour": "Vierge : L’amour pourrait frapper à ta porte.",
+        "travail": "Vierge : Avance avec détermination.",
+        "sante": "Vierge : Prends soin de toi.",
+        "conseil": "Vierge : Reste à l'écoute de ton intuition."
+      },
+      "balance": {
+        "general": "Balance : Journée pleine de surprises.",
+        "amour": "Balance : L’amour pourrait frapper à ta porte.",
+        "travail": "Balance : Avance avec détermination.",
+        "sante": "Balance : Prends soin de toi.",
+        "conseil": "Balance : Reste à l'écoute de ton intuition."
+      },
+      "scorpion": {
+        "general": "Scorpion : Journée pleine de surprises.",
+        "amour": "Scorpion : L’amour pourrait frapper à ta porte.",
+        "travail": "Scorpion : Avance avec détermination.",
+        "sante": "Scorpion : Prends soin de toi.",
+        "conseil": "Scorpion : Reste à l'écoute de ton intuition."
+      },
+      "sagittaire": {
+        "general": "Sagittaire : Journée pleine de surprises.",
+        "amour": "Sagittaire : L’amour pourrait frapper à ta porte.",
+        "travail": "Sagittaire : Avance avec détermination.",
+        "sante": "Sagittaire : Prends soin de toi.",
+        "conseil": "Sagittaire : Reste à l'écoute de ton intuition."
+      },
+      "capricorne": {
+        "general": "Capricorne : Journée pleine de surprises.",
+        "amour": "Capricorne : L’amour pourrait frapper à ta porte.",
+        "travail": "Capricorne : Avance avec détermination.",
+        "sante": "Capricorne : Prends soin de toi.",
+        "conseil": "Capricorne : Reste à l'écoute de ton intuition."
+      },
+      "verseau": {
+        "general": "Verseau : Journée pleine de surprises.",
+        "amour": "Verseau : L’amour pourrait frapper à ta porte.",
+        "travail": "Verseau : Avance avec détermination.",
+        "sante": "Verseau : Prends soin de toi.",
+        "conseil": "Verseau : Reste à l'écoute de ton intuition."
+      },
+      "poissons": {
+        "general": "Poissons : Journée pleine de surprises.",
+        "amour": "Poissons : L’amour pourrait frapper à ta porte.",
+        "travail": "Poissons : Avance avec détermination.",
+        "sante": "Poissons : Prends soin de toi.",
+        "conseil": "Poissons : Reste à l'écoute de ton intuition."
+      }
+    },
+    "2025-04-05": {
+      "belier": {
+        "general": "Belier : Journée pleine de surprises.",
+        "amour": "Belier : L’amour pourrait frapper à ta porte.",
+        "travail": "Belier : Avance avec détermination.",
+        "sante": "Belier : Prends soin de toi.",
+        "conseil": "Belier : Reste à l'écoute de ton intuition."
+      },
+      "taureau": {
+        "general": "Taureau : Journée pleine de surprises.",
+        "amour": "Taureau : L’amour pourrait frapper à ta porte.",
+        "travail": "Taureau : Avance avec détermination.",
+        "sante": "Taureau : Prends soin de toi.",
+        "conseil": "Taureau : Reste à l'écoute de ton intuition."
+      },
+      "gemeaux": {
+        "general": "Gemeaux : Journée pleine de surprises.",
+        "amour": "Gemeaux : L’amour pourrait frapper à ta porte.",
+        "travail": "Gemeaux : Avance avec détermination.",
+        "sante": "Gemeaux : Prends soin de toi.",
+        "conseil": "Gemeaux : Reste à l'écoute de ton intuition."
+      },
+      "cancer": {
+        "general": "Cancer : Journée pleine de surprises.",
+        "amour": "Cancer : L’amour pourrait frapper à ta porte.",
+        "travail": "Cancer : Avance avec détermination.",
+        "sante": "Cancer : Prends soin de toi.",
+        "conseil": "Cancer : Reste à l'écoute de ton intuition."
+      },
+      "lion": {
+        "general": "Lion : Journée pleine de surprises.",
+        "amour": "Lion : L’amour pourrait frapper à ta porte.",
+        "travail": "Lion : Avance avec détermination.",
+        "sante": "Lion : Prends soin de toi.",
+        "conseil": "Lion : Reste à l'écoute de ton intuition."
+      },
+      "vierge": {
+        "general": "Vierge : Journée pleine de surprises.",
+        "amour": "Vierge : L’amour pourrait frapper à ta porte.",
+        "travail": "Vierge : Avance avec détermination.",
+        "sante": "Vierge : Prends soin de toi.",
+        "conseil": "Vierge : Reste à l'écoute de ton intuition."
+      },
+      "balance": {
+        "general": "Balance : Journée pleine de surprises.",
+        "amour": "Balance : L’amour pourrait frapper à ta porte.",
+        "travail": "Balance : Avance avec détermination.",
+        "sante": "Balance : Prends soin de toi.",
+        "conseil": "Balance : Reste à l'écoute de ton intuition."
+      },
+      "scorpion": {
+        "general": "Scorpion : Journée pleine de surprises.",
+        "amour": "Scorpion : L’amour pourrait frapper à ta porte.",
+        "travail": "Scorpion : Avance avec détermination.",
+        "sante": "Scorpion : Prends soin de toi.",
+        "conseil": "Scorpion : Reste à l'écoute de ton intuition."
+      },
+      "sagittaire": {
+        "general": "Sagittaire : Journée pleine de surprises.",
+        "amour": "Sagittaire : L’amour pourrait frapper à ta porte.",
+        "travail": "Sagittaire : Avance avec détermination.",
+        "sante": "Sagittaire : Prends soin de toi.",
+        "conseil": "Sagittaire : Reste à l'écoute de ton intuition."
+      },
+      "capricorne": {
+        "general": "Capricorne : Journée pleine de surprises.",
+        "amour": "Capricorne : L’amour pourrait frapper à ta porte.",
+        "travail": "Capricorne : Avance avec détermination.",
+        "sante": "Capricorne : Prends soin de toi.",
+        "conseil": "Capricorne : Reste à l'écoute de ton intuition."
+      },
+      "verseau": {
+        "general": "Verseau : Journée pleine de surprises.",
+        "amour": "Verseau : L’amour pourrait frapper à ta porte.",
+        "travail": "Verseau : Avance avec détermination.",
+        "sante": "Verseau : Prends soin de toi.",
+        "conseil": "Verseau : Reste à l'écoute de ton intuition."
+      },
+      "poissons": {
+        "general": "Poissons : Journée pleine de surprises.",
+        "amour": "Poissons : L’amour pourrait frapper à ta porte.",
+        "travail": "Poissons : Avance avec détermination.",
+        "sante": "Poissons : Prends soin de toi.",
+        "conseil": "Poissons : Reste à l'écoute de ton intuition."
+      }
+    },
+    "2025-04-06": {
+      "belier": {
+        "general": "Belier : Journée pleine de surprises.",
+        "amour": "Belier : L’amour pourrait frapper à ta porte.",
+        "travail": "Belier : Avance avec détermination.",
+        "sante": "Belier : Prends soin de toi.",
+        "conseil": "Belier : Reste à l'écoute de ton intuition."
+      },
+      "taureau": {
+        "general": "Taureau : Journée pleine de surprises.",
+        "amour": "Taureau : L’amour pourrait frapper à ta porte.",
+        "travail": "Taureau : Avance avec détermination.",
+        "sante": "Taureau : Prends soin de toi.",
+        "conseil": "Taureau : Reste à l'écoute de ton intuition."
+      },
+      "gemeaux": {
+        "general": "Gemeaux : Journée pleine de surprises.",
+        "amour": "Gemeaux : L’amour pourrait frapper à ta porte.",
+        "travail": "Gemeaux : Avance avec détermination.",
+        "sante": "Gemeaux : Prends soin de toi.",
+        "conseil": "Gemeaux : Reste à l'écoute de ton intuition."
+      },
+      "cancer": {
+        "general": "Cancer : Journée pleine de surprises.",
+        "amour": "Cancer : L’amour pourrait frapper à ta porte.",
+        "travail": "Cancer : Avance avec détermination.",
+        "sante": "Cancer : Prends soin de toi.",
+        "conseil": "Cancer : Reste à l'écoute de ton intuition."
+      },
+      "lion": {
+        "general": "Lion : Journée pleine de surprises.",
+        "amour": "Lion : L’amour pourrait frapper à ta porte.",
+        "travail": "Lion : Avance avec détermination.",
+        "sante": "Lion : Prends soin de toi.",
+        "conseil": "Lion : Reste à l'écoute de ton intuition."
+      },
+      "vierge": {
+        "general": "Vierge : Journée pleine de surprises.",
+        "amour": "Vierge : L’amour pourrait frapper à ta porte.",
+        "travail": "Vierge : Avance avec détermination.",
+        "sante": "Vierge : Prends soin de toi.",
+        "conseil": "Vierge : Reste à l'écoute de ton intuition."
+      },
+      "balance": {
+        "general": "Balance : Journée pleine de surprises.",
+        "amour": "Balance : L’amour pourrait frapper à ta porte.",
+        "travail": "Balance : Avance avec détermination.",
+        "sante": "Balance : Prends soin de toi.",
+        "conseil": "Balance : Reste à l'écoute de ton intuition."
+      },
+      "scorpion": {
+        "general": "Scorpion : Journée pleine de surprises.",
+        "amour": "Scorpion : L’amour pourrait frapper à ta porte.",
+        "travail": "Scorpion : Avance avec détermination.",
+        "sante": "Scorpion : Prends soin de toi.",
+        "conseil": "Scorpion : Reste à l'écoute de ton intuition."
+      },
+      "sagittaire": {
+        "general": "Sagittaire : Journée pleine de surprises.",
+        "amour": "Sagittaire : L’amour pourrait frapper à ta porte.",
+        "travail": "Sagittaire : Avance avec détermination.",
+        "sante": "Sagittaire : Prends soin de toi.",
+        "conseil": "Sagittaire : Reste à l'écoute de ton intuition."
+      },
+      "capricorne": {
+        "general": "Capricorne : Journée pleine de surprises.",
+        "amour": "Capricorne : L’amour pourrait frapper à ta porte.",
+        "travail": "Capricorne : Avance avec détermination.",
+        "sante": "Capricorne : Prends soin de toi.",
+        "conseil": "Capricorne : Reste à l'écoute de ton intuition."
+      },
+      "verseau": {
+        "general": "Verseau : Journée pleine de surprises.",
+        "amour": "Verseau : L’amour pourrait frapper à ta porte.",
+        "travail": "Verseau : Avance avec détermination.",
+        "sante": "Verseau : Prends soin de toi.",
+        "conseil": "Verseau : Reste à l'écoute de ton intuition."
+      },
+      "poissons": {
+        "general": "Poissons : Journée pleine de surprises.",
+        "amour": "Poissons : L’amour pourrait frapper à ta porte.",
+        "travail": "Poissons : Avance avec détermination.",
+        "sante": "Poissons : Prends soin de toi.",
+        "conseil": "Poissons : Reste à l'écoute de ton intuition."
+      }
+    },
+    "2025-04-07": {
+      "belier": {
+        "general": "Belier : Journée pleine de surprises.",
+        "amour": "Belier : L’amour pourrait frapper à ta porte.",
+        "travail": "Belier : Avance avec détermination.",
+        "sante": "Belier : Prends soin de toi.",
+        "conseil": "Belier : Reste à l'écoute de ton intuition."
+      },
+      "taureau": {
+        "general": "Taureau : Journée pleine de surprises.",
+        "amour": "Taureau : L’amour pourrait frapper à ta porte.",
+        "travail": "Taureau : Avance avec détermination.",
+        "sante": "Taureau : Prends soin de toi.",
+        "conseil": "Taureau : Reste à l'écoute de ton intuition."
+      },
+      "gemeaux": {
+        "general": "Gemeaux : Journée pleine de surprises.",
+        "amour": "Gemeaux : L’amour pourrait frapper à ta porte.",
+        "travail": "Gemeaux : Avance avec détermination.",
+        "sante": "Gemeaux : Prends soin de toi.",
+        "conseil": "Gemeaux : Reste à l'écoute de ton intuition."
+      },
+      "cancer": {
+        "general": "Cancer : Journée pleine de surprises.",
+        "amour": "Cancer : L’amour pourrait frapper à ta porte.",
+        "travail": "Cancer : Avance avec détermination.",
+        "sante": "Cancer : Prends soin de toi.",
+        "conseil": "Cancer : Reste à l'écoute de ton intuition."
+      },
+      "lion": {
+        "general": "Lion : Journée pleine de surprises.",
+        "amour": "Lion : L’amour pourrait frapper à ta porte.",
+        "travail": "Lion : Avance avec détermination.",
+        "sante": "Lion : Prends soin de toi.",
+        "conseil": "Lion : Reste à l'écoute de ton intuition."
+      },
+      "vierge": {
+        "general": "Vierge : Journée pleine de surprises.",
+        "amour": "Vierge : L’amour pourrait frapper à ta porte.",
+        "travail": "Vierge : Avance avec détermination.",
+        "sante": "Vierge : Prends soin de toi.",
+        "conseil": "Vierge : Reste à l'écoute de ton intuition."
+      },
+      "balance": {
+        "general": "Balance : Journée pleine de surprises.",
+        "amour": "Balance : L’amour pourrait frapper à ta porte.",
+        "travail": "Balance : Avance avec détermination.",
+        "sante": "Balance : Prends soin de toi.",
+        "conseil": "Balance : Reste à l'écoute de ton intuition."
+      },
+      "scorpion": {
+        "general": "Scorpion : Journée pleine de surprises.",
+        "amour": "Scorpion : L’amour pourrait frapper à ta porte.",
+        "travail": "Scorpion : Avance avec détermination.",
+        "sante": "Scorpion : Prends soin de toi.",
+        "conseil": "Scorpion : Reste à l'écoute de ton intuition."
+      },
+      "sagittaire": {
+        "general": "Sagittaire : Journée pleine de surprises.",
+        "amour": "Sagittaire : L’amour pourrait frapper à ta porte.",
+        "travail": "Sagittaire : Avance avec détermination.",
+        "sante": "Sagittaire : Prends soin de toi.",
+        "conseil": "Sagittaire : Reste à l'écoute de ton intuition."
+      },
+      "capricorne": {
+        "general": "Capricorne : Journée pleine de surprises.",
+        "amour": "Capricorne : L’amour pourrait frapper à ta porte.",
+        "travail": "Capricorne : Avance avec détermination.",
+        "sante": "Capricorne : Prends soin de toi.",
+        "conseil": "Capricorne : Reste à l'écoute de ton intuition."
+      },
+      "verseau": {
+        "general": "Verseau : Journée pleine de surprises.",
+        "amour": "Verseau : L’amour pourrait frapper à ta porte.",
+        "travail": "Verseau : Avance avec détermination.",
+        "sante": "Verseau : Prends soin de toi.",
+        "conseil": "Verseau : Reste à l'écoute de ton intuition."
+      },
+      "poissons": {
+        "general": "Poissons : Journée pleine de surprises.",
+        "amour": "Poissons : L’amour pourrait frapper à ta porte.",
+        "travail": "Poissons : Avance avec détermination.",
+        "sante": "Poissons : Prends soin de toi.",
+        "conseil": "Poissons : Reste à l'écoute de ton intuition."
+      }
+    },
+    "2025-04-08": {
+      "belier": {
+        "general": "Belier : Journée pleine de surprises.",
+        "amour": "Belier : L’amour pourrait frapper à ta porte.",
+        "travail": "Belier : Avance avec détermination.",
+        "sante": "Belier : Prends soin de toi.",
+        "conseil": "Belier : Reste à l'écoute de ton intuition."
+      },
+      "taureau": {
+        "general": "Taureau : Journée pleine de surprises.",
+        "amour": "Taureau : L’amour pourrait frapper à ta porte.",
+        "travail": "Taureau : Avance avec détermination.",
+        "sante": "Taureau : Prends soin de toi.",
+        "conseil": "Taureau : Reste à l'écoute de ton intuition."
+      },
+      "gemeaux": {
+        "general": "Gemeaux : Journée pleine de surprises.",
+        "amour": "Gemeaux : L’amour pourrait frapper à ta porte.",
+        "travail": "Gemeaux : Avance avec détermination.",
+        "sante": "Gemeaux : Prends soin de toi.",
+        "conseil": "Gemeaux : Reste à l'écoute de ton intuition."
+      },
+      "cancer": {
+        "general": "Cancer : Journée pleine de surprises.",
+        "amour": "Cancer : L’amour pourrait frapper à ta porte.",
+        "travail": "Cancer : Avance avec détermination.",
+        "sante": "Cancer : Prends soin de toi.",
+        "conseil": "Cancer : Reste à l'écoute de ton intuition."
+      },
+      "lion": {
+        "general": "Lion : Journée pleine de surprises.",
+        "amour": "Lion : L’amour pourrait frapper à ta porte.",
+        "travail": "Lion : Avance avec détermination.",
+        "sante": "Lion : Prends soin de toi.",
+        "conseil": "Lion : Reste à l'écoute de ton intuition."
+      },
+      "vierge": {
+        "general": "Vierge : Journée pleine de surprises.",
+        "amour": "Vierge : L’amour pourrait frapper à ta porte.",
+        "travail": "Vierge : Avance avec détermination.",
+        "sante": "Vierge : Prends soin de toi.",
+        "conseil": "Vierge : Reste à l'écoute de ton intuition."
+      },
+      "balance": {
+        "general": "Balance : Journée pleine de surprises.",
+        "amour": "Balance : L’amour pourrait frapper à ta porte.",
+        "travail": "Balance : Avance avec détermination.",
+        "sante": "Balance : Prends soin de toi.",
+        "conseil": "Balance : Reste à l'écoute de ton intuition."
+      },
+      "scorpion": {
+        "general": "Scorpion : Journée pleine de surprises.",
+        "amour": "Scorpion : L’amour pourrait frapper à ta porte.",
+        "travail": "Scorpion : Avance avec détermination.",
+        "sante": "Scorpion : Prends soin de toi.",
+        "conseil": "Scorpion : Reste à l'écoute de ton intuition."
+      },
+      "sagittaire": {
+        "general": "Sagittaire : Journée pleine de surprises.",
+        "amour": "Sagittaire : L’amour pourrait frapper à ta porte.",
+        "travail": "Sagittaire : Avance avec détermination.",
+        "sante": "Sagittaire : Prends soin de toi.",
+        "conseil": "Sagittaire : Reste à l'écoute de ton intuition."
+      },
+      "capricorne": {
+        "general": "Capricorne : Journée pleine de surprises.",
+        "amour": "Capricorne : L’amour pourrait frapper à ta porte.",
+        "travail": "Capricorne : Avance avec détermination.",
+        "sante": "Capricorne : Prends soin de toi.",
+        "conseil": "Capricorne : Reste à l'écoute de ton intuition."
+      },
+      "verseau": {
+        "general": "Verseau : Journée pleine de surprises.",
+        "amour": "Verseau : L’amour pourrait frapper à ta porte.",
+        "travail": "Verseau : Avance avec détermination.",
+        "sante": "Verseau : Prends soin de toi.",
+        "conseil": "Verseau : Reste à l'écoute de ton intuition."
+      },
+      "poissons": {
+        "general": "Poissons : Journée pleine de surprises.",
+        "amour": "Poissons : L’amour pourrait frapper à ta porte.",
+        "travail": "Poissons : Avance avec détermination.",
+        "sante": "Poissons : Prends soin de toi.",
+        "conseil": "Poissons : Reste à l'écoute de ton intuition."
+      }
+    },
+    "2025-04-09": {
+      "belier": {
+        "general": "Belier : Journée pleine de surprises.",
+        "amour": "Belier : L’amour pourrait frapper à ta porte.",
+        "travail": "Belier : Avance avec détermination.",
+        "sante": "Belier : Prends soin de toi.",
+        "conseil": "Belier : Reste à l'écoute de ton intuition."
+      },
+      "taureau": {
+        "general": "Taureau : Journée pleine de surprises.",
+        "amour": "Taureau : L’amour pourrait frapper à ta porte.",
+        "travail": "Taureau : Avance avec détermination.",
+        "sante": "Taureau : Prends soin de toi.",
+        "conseil": "Taureau : Reste à l'écoute de ton intuition."
+      },
+      "gemeaux": {
+        "general": "Gemeaux : Journée pleine de surprises.",
+        "amour": "Gemeaux : L’amour pourrait frapper à ta porte.",
+        "travail": "Gemeaux : Avance avec détermination.",
+        "sante": "Gemeaux : Prends soin de toi.",
+        "conseil": "Gemeaux : Reste à l'écoute de ton intuition."
+      },
+      "cancer": {
+        "general": "Cancer : Journée pleine de surprises.",
+        "amour": "Cancer : L’amour pourrait frapper à ta porte.",
+        "travail": "Cancer : Avance avec détermination.",
+        "sante": "Cancer : Prends soin de toi.",
+        "conseil": "Cancer : Reste à l'écoute de ton intuition."
+      },
+      "lion": {
+        "general": "Lion : Journée pleine de surprises.",
+        "amour": "Lion : L’amour pourrait frapper à ta porte.",
+        "travail": "Lion : Avance avec détermination.",
+        "sante": "Lion : Prends soin de toi.",
+        "conseil": "Lion : Reste à l'écoute de ton intuition."
+      },
+      "vierge": {
+        "general": "Vierge : Journée pleine de surprises.",
+        "amour": "Vierge : L’amour pourrait frapper à ta porte.",
+        "travail": "Vierge : Avance avec détermination.",
+        "sante": "Vierge : Prends soin de toi.",
+        "conseil": "Vierge : Reste à l'écoute de ton intuition."
+      },
+      "balance": {
+        "general": "Balance : Journée pleine de surprises.",
+        "amour": "Balance : L’amour pourrait frapper à ta porte.",
+        "travail": "Balance : Avance avec détermination.",
+        "sante": "Balance : Prends soin de toi.",
+        "conseil": "Balance : Reste à l'écoute de ton intuition."
+      },
+      "scorpion": {
+        "general": "Scorpion : Journée pleine de surprises.",
+        "amour": "Scorpion : L’amour pourrait frapper à ta porte.",
+        "travail": "Scorpion : Avance avec détermination.",
+        "sante": "Scorpion : Prends soin de toi.",
+        "conseil": "Scorpion : Reste à l'écoute de ton intuition."
+      },
+      "sagittaire": {
+        "general": "Sagittaire : Journée pleine de surprises.",
+        "amour": "Sagittaire : L’amour pourrait frapper à ta porte.",
+        "travail": "Sagittaire : Avance avec détermination.",
+        "sante": "Sagittaire : Prends soin de toi.",
+        "conseil": "Sagittaire : Reste à l'écoute de ton intuition."
+      },
+      "capricorne": {
+        "general": "Capricorne : Journée pleine de surprises.",
+        "amour": "Capricorne : L’amour pourrait frapper à ta porte.",
+        "travail": "Capricorne : Avance avec détermination.",
+        "sante": "Capricorne : Prends soin de toi.",
+        "conseil": "Capricorne : Reste à l'écoute de ton intuition."
+      },
+      "verseau": {
+        "general": "Verseau : Journée pleine de surprises.",
+        "amour": "Verseau : L’amour pourrait frapper à ta porte.",
+        "travail": "Verseau : Avance avec détermination.",
+        "sante": "Verseau : Prends soin de toi.",
+        "conseil": "Verseau : Reste à l'écoute de ton intuition."
+      },
+      "poissons": {
+        "general": "Poissons : Journée pleine de surprises.",
+        "amour": "Poissons : L’amour pourrait frapper à ta porte.",
+        "travail": "Poissons : Avance avec détermination.",
+        "sante": "Poissons : Prends soin de toi.",
+        "conseil": "Poissons : Reste à l'écoute de ton intuition."
+      }
+    },
+    "2025-04-10": {
+      "belier": {
+        "general": "Belier : Journée pleine de surprises.",
+        "amour": "Belier : L’amour pourrait frapper à ta porte.",
+        "travail": "Belier : Avance avec détermination.",
+        "sante": "Belier : Prends soin de toi.",
+        "conseil": "Belier : Reste à l'écoute de ton intuition."
+      },
+      "taureau": {
+        "general": "Taureau : Journée pleine de surprises.",
+        "amour": "Taureau : L’amour pourrait frapper à ta porte.",
+        "travail": "Taureau : Avance avec détermination.",
+        "sante": "Taureau : Prends soin de toi.",
+        "conseil": "Taureau : Reste à l'écoute de ton intuition."
+      },
+      "gemeaux": {
+        "general": "Gemeaux : Journée pleine de surprises.",
+        "amour": "Gemeaux : L’amour pourrait frapper à ta porte.",
+        "travail": "Gemeaux : Avance avec détermination.",
+        "sante": "Gemeaux : Prends soin de toi.",
+        "conseil": "Gemeaux : Reste à l'écoute de ton intuition."
+      },
+      "cancer": {
+        "general": "Cancer : Journée pleine de surprises.",
+        "amour": "Cancer : L’amour pourrait frapper à ta porte.",
+        "travail": "Cancer : Avance avec détermination.",
+        "sante": "Cancer : Prends soin de toi.",
+        "conseil": "Cancer : Reste à l'écoute de ton intuition."
+      },
+      "lion": {
+        "general": "Lion : Journée pleine de surprises.",
+        "amour": "Lion : L’amour pourrait frapper à ta porte.",
+        "travail": "Lion : Avance avec détermination.",
+        "sante": "Lion : Prends soin de toi.",
+        "conseil": "Lion : Reste à l'écoute de ton intuition."
+      },
+      "vierge": {
+        "general": "Vierge : Journée pleine de surprises.",
+        "amour": "Vierge : L’amour pourrait frapper à ta porte.",
+        "travail": "Vierge : Avance avec détermination.",
+        "sante": "Vierge : Prends soin de toi.",
+        "conseil": "Vierge : Reste à l'écoute de ton intuition."
+      },
+      "balance": {
+        "general": "Balance : Journée pleine de surprises.",
+        "amour": "Balance : L’amour pourrait frapper à ta porte.",
+        "travail": "Balance : Avance avec détermination.",
+        "sante": "Balance : Prends soin de toi.",
+        "conseil": "Balance : Reste à l'écoute de ton intuition."
+      },
+      "scorpion": {
+        "general": "Scorpion : Journée pleine de surprises.",
+        "amour": "Scorpion : L’amour pourrait frapper à ta porte.",
+        "travail": "Scorpion : Avance avec détermination.",
+        "sante": "Scorpion : Prends soin de toi.",
+        "conseil": "Scorpion : Reste à l'écoute de ton intuition."
+      },
+      "sagittaire": {
+        "general": "Sagittaire : Journée pleine de surprises.",
+        "amour": "Sagittaire : L’amour pourrait frapper à ta porte.",
+        "travail": "Sagittaire : Avance avec détermination.",
+        "sante": "Sagittaire : Prends soin de toi.",
+        "conseil": "Sagittaire : Reste à l'écoute de ton intuition."
+      },
+      "capricorne": {
+        "general": "Capricorne : Journée pleine de surprises.",
+        "amour": "Capricorne : L’amour pourrait frapper à ta porte.",
+        "travail": "Capricorne : Avance avec détermination.",
+        "sante": "Capricorne : Prends soin de toi.",
+        "conseil": "Capricorne : Reste à l'écoute de ton intuition."
+      },
+      "verseau": {
+        "general": "Verseau : Journée pleine de surprises.",
+        "amour": "Verseau : L’amour pourrait frapper à ta porte.",
+        "travail": "Verseau : Avance avec détermination.",
+        "sante": "Verseau : Prends soin de toi.",
+        "conseil": "Verseau : Reste à l'écoute de ton intuition."
+      },
+      "poissons": {
+        "general": "Poissons : Journée pleine de surprises.",
+        "amour": "Poissons : L’amour pourrait frapper à ta porte.",
+        "travail": "Poissons : Avance avec détermination.",
+        "sante": "Poissons : Prends soin de toi.",
+        "conseil": "Poissons : Reste à l'écoute de ton intuition."
+      }
+    },
+    "2025-04-11": {
+      "belier": {
+        "general": "Belier : Journée pleine de surprises.",
+        "amour": "Belier : L’amour pourrait frapper à ta porte.",
+        "travail": "Belier : Avance avec détermination.",
+        "sante": "Belier : Prends soin de toi.",
+        "conseil": "Belier : Reste à l'écoute de ton intuition."
+      },
+      "taureau": {
+        "general": "Taureau : Journée pleine de surprises.",
+        "amour": "Taureau : L’amour pourrait frapper à ta porte.",
+        "travail": "Taureau : Avance avec détermination.",
+        "sante": "Taureau : Prends soin de toi.",
+        "conseil": "Taureau : Reste à l'écoute de ton intuition."
+      },
+      "gemeaux": {
+        "general": "Gemeaux : Journée pleine de surprises.",
+        "amour": "Gemeaux : L’amour pourrait frapper à ta porte.",
+        "travail": "Gemeaux : Avance avec détermination.",
+        "sante": "Gemeaux : Prends soin de toi.",
+        "conseil": "Gemeaux : Reste à l'écoute de ton intuition."
+      },
+      "cancer": {
+        "general": "Cancer : Journée pleine de surprises.",
+        "amour": "Cancer : L’amour pourrait frapper à ta porte.",
+        "travail": "Cancer : Avance avec détermination.",
+        "sante": "Cancer : Prends soin de toi.",
+        "conseil": "Cancer : Reste à l'écoute de ton intuition."
+      },
+      "lion": {
+        "general": "Lion : Journée pleine de surprises.",
+        "amour": "Lion : L’amour pourrait frapper à ta porte.",
+        "travail": "Lion : Avance avec détermination.",
+        "sante": "Lion : Prends soin de toi.",
+        "conseil": "Lion : Reste à l'écoute de ton intuition."
+      },
+      "vierge": {
+        "general": "Vierge : Journée pleine de surprises.",
+        "amour": "Vierge : L’amour pourrait frapper à ta porte.",
+        "travail": "Vierge : Avance avec détermination.",
+        "sante": "Vierge : Prends soin de toi.",
+        "conseil": "Vierge : Reste à l'écoute de ton intuition."
+      },
+      "balance": {
+        "general": "Balance : Journée pleine de surprises.",
+        "amour": "Balance : L’amour pourrait frapper à ta porte.",
+        "travail": "Balance : Avance avec détermination.",
+        "sante": "Balance : Prends soin de toi.",
+        "conseil": "Balance : Reste à l'écoute de ton intuition."
+      },
+      "scorpion": {
+        "general": "Scorpion : Journée pleine de surprises.",
+        "amour": "Scorpion : L’amour pourrait frapper à ta porte.",
+        "travail": "Scorpion : Avance avec détermination.",
+        "sante": "Scorpion : Prends soin de toi.",
+        "conseil": "Scorpion : Reste à l'écoute de ton intuition."
+      },
+      "sagittaire": {
+        "general": "Sagittaire : Journée pleine de surprises.",
+        "amour": "Sagittaire : L’amour pourrait frapper à ta porte.",
+        "travail": "Sagittaire : Avance avec détermination.",
+        "sante": "Sagittaire : Prends soin de toi.",
+        "conseil": "Sagittaire : Reste à l'écoute de ton intuition."
+      },
+      "capricorne": {
+        "general": "Capricorne : Journée pleine de surprises.",
+        "amour": "Capricorne : L’amour pourrait frapper à ta porte.",
+        "travail": "Capricorne : Avance avec détermination.",
+        "sante": "Capricorne : Prends soin de toi.",
+        "conseil": "Capricorne : Reste à l'écoute de ton intuition."
+      },
+      "verseau": {
+        "general": "Verseau : Journée pleine de surprises.",
+        "amour": "Verseau : L’amour pourrait frapper à ta porte.",
+        "travail": "Verseau : Avance avec détermination.",
+        "sante": "Verseau : Prends soin de toi.",
+        "conseil": "Verseau : Reste à l'écoute de ton intuition."
+      },
+      "poissons": {
+        "general": "Poissons : Journée pleine de surprises.",
+        "amour": "Poissons : L’amour pourrait frapper à ta porte.",
+        "travail": "Poissons : Avance avec détermination.",
+        "sante": "Poissons : Prends soin de toi.",
+        "conseil": "Poissons : Reste à l'écoute de ton intuition."
+      }
+    },
+    "2025-04-12": {
+      "belier": {
+        "general": "Belier : Journée pleine de surprises.",
+        "amour": "Belier : L’amour pourrait frapper à ta porte.",
+        "travail": "Belier : Avance avec détermination.",
+        "sante": "Belier : Prends soin de toi.",
+        "conseil": "Belier : Reste à l'écoute de ton intuition."
+      },
+      "taureau": {
+        "general": "Taureau : Journée pleine de surprises.",
+        "amour": "Taureau : L’amour pourrait frapper à ta porte.",
+        "travail": "Taureau : Avance avec détermination.",
+        "sante": "Taureau : Prends soin de toi.",
+        "conseil": "Taureau : Reste à l'écoute de ton intuition."
+      },
+      "gemeaux": {
+        "general": "Gemeaux : Journée pleine de surprises.",
+        "amour": "Gemeaux : L’amour pourrait frapper à ta porte.",
+        "travail": "Gemeaux : Avance avec détermination.",
+        "sante": "Gemeaux : Prends soin de toi.",
+        "conseil": "Gemeaux : Reste à l'écoute de ton intuition."
+      },
+      "cancer": {
+        "general": "Cancer : Journée pleine de surprises.",
+        "amour": "Cancer : L’amour pourrait frapper à ta porte.",
+        "travail": "Cancer : Avance avec détermination.",
+        "sante": "Cancer : Prends soin de toi.",
+        "conseil": "Cancer : Reste à l'écoute de ton intuition."
+      },
+      "lion": {
+        "general": "Lion : Journée pleine de surprises.",
+        "amour": "Lion : L’amour pourrait frapper à ta porte.",
+        "travail": "Lion : Avance avec détermination.",
+        "sante": "Lion : Prends soin de toi.",
+        "conseil": "Lion : Reste à l'écoute de ton intuition."
+      },
+      "vierge": {
+        "general": "Vierge : Journée pleine de surprises.",
+        "amour": "Vierge : L’amour pourrait frapper à ta porte.",
+        "travail": "Vierge : Avance avec détermination.",
+        "sante": "Vierge : Prends soin de toi.",
+        "conseil": "Vierge : Reste à l'écoute de ton intuition."
+      },
+      "balance": {
+        "general": "Balance : Journée pleine de surprises.",
+        "amour": "Balance : L’amour pourrait frapper à ta porte.",
+        "travail": "Balance : Avance avec détermination.",
+        "sante": "Balance : Prends soin de toi.",
+        "conseil": "Balance : Reste à l'écoute de ton intuition."
+      },
+      "scorpion": {
+        "general": "Scorpion : Journée pleine de surprises.",
+        "amour": "Scorpion : L’amour pourrait frapper à ta porte.",
+        "travail": "Scorpion : Avance avec détermination.",
+        "sante": "Scorpion : Prends soin de toi.",
+        "conseil": "Scorpion : Reste à l'écoute de ton intuition."
+      },
+      "sagittaire": {
+        "general": "Sagittaire : Journée pleine de surprises.",
+        "amour": "Sagittaire : L’amour pourrait frapper à ta porte.",
+        "travail": "Sagittaire : Avance avec détermination.",
+        "sante": "Sagittaire : Prends soin de toi.",
+        "conseil": "Sagittaire : Reste à l'écoute de ton intuition."
+      },
+      "capricorne": {
+        "general": "Capricorne : Journée pleine de surprises.",
+        "amour": "Capricorne : L’amour pourrait frapper à ta porte.",
+        "travail": "Capricorne : Avance avec détermination.",
+        "sante": "Capricorne : Prends soin de toi.",
+        "conseil": "Capricorne : Reste à l'écoute de ton intuition."
+      },
+      "verseau": {
+        "general": "Verseau : Journée pleine de surprises.",
+        "amour": "Verseau : L’amour pourrait frapper à ta porte.",
+        "travail": "Verseau : Avance avec détermination.",
+        "sante": "Verseau : Prends soin de toi.",
+        "conseil": "Verseau : Reste à l'écoute de ton intuition."
+      },
+      "poissons": {
+        "general": "Poissons : Journée pleine de surprises.",
+        "amour": "Poissons : L’amour pourrait frapper à ta porte.",
+        "travail": "Poissons : Avance avec détermination.",
+        "sante": "Poissons : Prends soin de toi.",
+        "conseil": "Poissons : Reste à l'écoute de ton intuition."
+      }
+    },
+    "2025-04-13": {
+      "belier": {
+        "general": "Belier : Journée pleine de surprises.",
+        "amour": "Belier : L’amour pourrait frapper à ta porte.",
+        "travail": "Belier : Avance avec détermination.",
+        "sante": "Belier : Prends soin de toi.",
+        "conseil": "Belier : Reste à l'écoute de ton intuition."
+      },
+      "taureau": {
+        "general": "Taureau : Journée pleine de surprises.",
+        "amour": "Taureau : L’amour pourrait frapper à ta porte.",
+        "travail": "Taureau : Avance avec détermination.",
+        "sante": "Taureau : Prends soin de toi.",
+        "conseil": "Taureau : Reste à l'écoute de ton intuition."
+      },
+      "gemeaux": {
+        "general": "Gemeaux : Journée pleine de surprises.",
+        "amour": "Gemeaux : L’amour pourrait frapper à ta porte.",
+        "travail": "Gemeaux : Avance avec détermination.",
+        "sante": "Gemeaux : Prends soin de toi.",
+        "conseil": "Gemeaux : Reste à l'écoute de ton intuition."
+      },
+      "cancer": {
+        "general": "Cancer : Journée pleine de surprises.",
+        "amour": "Cancer : L’amour pourrait frapper à ta porte.",
+        "travail": "Cancer : Avance avec détermination.",
+        "sante": "Cancer : Prends soin de toi.",
+        "conseil": "Cancer : Reste à l'écoute de ton intuition."
+      },
+      "lion": {
+        "general": "Lion : Journée pleine de surprises.",
+        "amour": "Lion : L’amour pourrait frapper à ta porte.",
+        "travail": "Lion : Avance avec détermination.",
+        "sante": "Lion : Prends soin de toi.",
+        "conseil": "Lion : Reste à l'écoute de ton intuition."
+      },
+      "vierge": {
+        "general": "Vierge : Journée pleine de surprises.",
+        "amour": "Vierge : L’amour pourrait frapper à ta porte.",
+        "travail": "Vierge : Avance avec détermination.",
+        "sante": "Vierge : Prends soin de toi.",
+        "conseil": "Vierge : Reste à l'écoute de ton intuition."
+      },
+      "balance": {
+        "general": "Balance : Journée pleine de surprises.",
+        "amour": "Balance : L’amour pourrait frapper à ta porte.",
+        "travail": "Balance : Avance avec détermination.",
+        "sante": "Balance : Prends soin de toi.",
+        "conseil": "Balance : Reste à l'écoute de ton intuition."
+      },
+      "scorpion": {
+        "general": "Scorpion : Journée pleine de surprises.",
+        "amour": "Scorpion : L’amour pourrait frapper à ta porte.",
+        "travail": "Scorpion : Avance avec détermination.",
+        "sante": "Scorpion : Prends soin de toi.",
+        "conseil": "Scorpion : Reste à l'écoute de ton intuition."
+      },
+      "sagittaire": {
+        "general": "Sagittaire : Journée pleine de surprises.",
+        "amour": "Sagittaire : L’amour pourrait frapper à ta porte.",
+        "travail": "Sagittaire : Avance avec détermination.",
+        "sante": "Sagittaire : Prends soin de toi.",
+        "conseil": "Sagittaire : Reste à l'écoute de ton intuition."
+      },
+      "capricorne": {
+        "general": "Capricorne : Journée pleine de surprises.",
+        "amour": "Capricorne : L’amour pourrait frapper à ta porte.",
+        "travail": "Capricorne : Avance avec détermination.",
+        "sante": "Capricorne : Prends soin de toi.",
+        "conseil": "Capricorne : Reste à l'écoute de ton intuition."
+      },
+      "verseau": {
+        "general": "Verseau : Journée pleine de surprises.",
+        "amour": "Verseau : L’amour pourrait frapper à ta porte.",
+        "travail": "Verseau : Avance avec détermination.",
+        "sante": "Verseau : Prends soin de toi.",
+        "conseil": "Verseau : Reste à l'écoute de ton intuition."
+      },
+      "poissons": {
+        "general": "Poissons : Journée pleine de surprises.",
+        "amour": "Poissons : L’amour pourrait frapper à ta porte.",
+        "travail": "Poissons : Avance avec détermination.",
+        "sante": "Poissons : Prends soin de toi.",
+        "conseil": "Poissons : Reste à l'écoute de ton intuition."
+      }
+    },
+    "2025-04-14": {
+      "belier": {
+        "general": "Belier : Journée pleine de surprises.",
+        "amour": "Belier : L’amour pourrait frapper à ta porte.",
+        "travail": "Belier : Avance avec détermination.",
+        "sante": "Belier : Prends soin de toi.",
+        "conseil": "Belier : Reste à l'écoute de ton intuition."
+      },
+      "taureau": {
+        "general": "Taureau : Journée pleine de surprises.",
+        "amour": "Taureau : L’amour pourrait frapper à ta porte.",
+        "travail": "Taureau : Avance avec détermination.",
+        "sante": "Taureau : Prends soin de toi.",
+        "conseil": "Taureau : Reste à l'écoute de ton intuition."
+      },
+      "gemeaux": {
+        "general": "Gemeaux : Journée pleine de surprises.",
+        "amour": "Gemeaux : L’amour pourrait frapper à ta porte.",
+        "travail": "Gemeaux : Avance avec détermination.",
+        "sante": "Gemeaux : Prends soin de toi.",
+        "conseil": "Gemeaux : Reste à l'écoute de ton intuition."
+      },
+      "cancer": {
+        "general": "Cancer : Journée pleine de surprises.",
+        "amour": "Cancer : L’amour pourrait frapper à ta porte.",
+        "travail": "Cancer : Avance avec détermination.",
+        "sante": "Cancer : Prends soin de toi.",
+        "conseil": "Cancer : Reste à l'écoute de ton intuition."
+      },
+      "lion": {
+        "general": "Lion : Journée pleine de surprises.",
+        "amour": "Lion : L’amour pourrait frapper à ta porte.",
+        "travail": "Lion : Avance avec détermination.",
+        "sante": "Lion : Prends soin de toi.",
+        "conseil": "Lion : Reste à l'écoute de ton intuition."
+      },
+      "vierge": {
+        "general": "Vierge : Journée pleine de surprises.",
+        "amour": "Vierge : L’amour pourrait frapper à ta porte.",
+        "travail": "Vierge : Avance avec détermination.",
+        "sante": "Vierge : Prends soin de toi.",
+        "conseil": "Vierge : Reste à l'écoute de ton intuition."
+      },
+      "balance": {
+        "general": "Balance : Journée pleine de surprises.",
+        "amour": "Balance : L’amour pourrait frapper à ta porte.",
+        "travail": "Balance : Avance avec détermination.",
+        "sante": "Balance : Prends soin de toi.",
+        "conseil": "Balance : Reste à l'écoute de ton intuition."
+      },
+      "scorpion": {
+        "general": "Scorpion : Journée pleine de surprises.",
+        "amour": "Scorpion : L’amour pourrait frapper à ta porte.",
+        "travail": "Scorpion : Avance avec détermination.",
+        "sante": "Scorpion : Prends soin de toi.",
+        "conseil": "Scorpion : Reste à l'écoute de ton intuition."
+      },
+      "sagittaire": {
+        "general": "Sagittaire : Journée pleine de surprises.",
+        "amour": "Sagittaire : L’amour pourrait frapper à ta porte.",
+        "travail": "Sagittaire : Avance avec détermination.",
+        "sante": "Sagittaire : Prends soin de toi.",
+        "conseil": "Sagittaire : Reste à l'écoute de ton intuition."
+      },
+      "capricorne": {
+        "general": "Capricorne : Journée pleine de surprises.",
+        "amour": "Capricorne : L’amour pourrait frapper à ta porte.",
+        "travail": "Capricorne : Avance avec détermination.",
+        "sante": "Capricorne : Prends soin de toi.",
+        "conseil": "Capricorne : Reste à l'écoute de ton intuition."
+      },
+      "verseau": {
+        "general": "Verseau : Journée pleine de surprises.",
+        "amour": "Verseau : L’amour pourrait frapper à ta porte.",
+        "travail": "Verseau : Avance avec détermination.",
+        "sante": "Verseau : Prends soin de toi.",
+        "conseil": "Verseau : Reste à l'écoute de ton intuition."
+      },
+      "poissons": {
+        "general": "Poissons : Journée pleine de surprises.",
+        "amour": "Poissons : L’amour pourrait frapper à ta porte.",
+        "travail": "Poissons : Avance avec détermination.",
+        "sante": "Poissons : Prends soin de toi.",
+        "conseil": "Poissons : Reste à l'écoute de ton intuition."
+      }
+    },
+    "2025-04-15": {
+      "belier": {
+        "general": "Belier : Journée pleine de surprises.",
+        "amour": "Belier : L’amour pourrait frapper à ta porte.",
+        "travail": "Belier : Avance avec détermination.",
+        "sante": "Belier : Prends soin de toi.",
+        "conseil": "Belier : Reste à l'écoute de ton intuition."
+      },
+      "taureau": {
+        "general": "Taureau : Journée pleine de surprises.",
+        "amour": "Taureau : L’amour pourrait frapper à ta porte.",
+        "travail": "Taureau : Avance avec détermination.",
+        "sante": "Taureau : Prends soin de toi.",
+        "conseil": "Taureau : Reste à l'écoute de ton intuition."
+      },
+      "gemeaux": {
+        "general": "Gemeaux : Journée pleine de surprises.",
+        "amour": "Gemeaux : L’amour pourrait frapper à ta porte.",
+        "travail": "Gemeaux : Avance avec détermination.",
+        "sante": "Gemeaux : Prends soin de toi.",
+        "conseil": "Gemeaux : Reste à l'écoute de ton intuition."
+      },
+      "cancer": {
+        "general": "Cancer : Journée pleine de surprises.",
+        "amour": "Cancer : L’amour pourrait frapper à ta porte.",
+        "travail": "Cancer : Avance avec détermination.",
+        "sante": "Cancer : Prends soin de toi.",
+        "conseil": "Cancer : Reste à l'écoute de ton intuition."
+      },
+      "lion": {
+        "general": "Lion : Journée pleine de surprises.",
+        "amour": "Lion : L’amour pourrait frapper à ta porte.",
+        "travail": "Lion : Avance avec détermination.",
+        "sante": "Lion : Prends soin de toi.",
+        "conseil": "Lion : Reste à l'écoute de ton intuition."
+      },
+      "vierge": {
+        "general": "Vierge : Journée pleine de surprises.",
+        "amour": "Vierge : L’amour pourrait frapper à ta porte.",
+        "travail": "Vierge : Avance avec détermination.",
+        "sante": "Vierge : Prends soin de toi.",
+        "conseil": "Vierge : Reste à l'écoute de ton intuition."
+      },
+      "balance": {
+        "general": "Balance : Journée pleine de surprises.",
+        "amour": "Balance : L’amour pourrait frapper à ta porte.",
+        "travail": "Balance : Avance avec détermination.",
+        "sante": "Balance : Prends soin de toi.",
+        "conseil": "Balance : Reste à l'écoute de ton intuition."
+      },
+      "scorpion": {
+        "general": "Scorpion : Journée pleine de surprises.",
+        "amour": "Scorpion : L’amour pourrait frapper à ta porte.",
+        "travail": "Scorpion : Avance avec détermination.",
+        "sante": "Scorpion : Prends soin de toi.",
+        "conseil": "Scorpion : Reste à l'écoute de ton intuition."
+      },
+      "sagittaire": {
+        "general": "Sagittaire : Journée pleine de surprises.",
+        "amour": "Sagittaire : L’amour pourrait frapper à ta porte.",
+        "travail": "Sagittaire : Avance avec détermination.",
+        "sante": "Sagittaire : Prends soin de toi.",
+        "conseil": "Sagittaire : Reste à l'écoute de ton intuition."
+      },
+      "capricorne": {
+        "general": "Capricorne : Journée pleine de surprises.",
+        "amour": "Capricorne : L’amour pourrait frapper à ta porte.",
+        "travail": "Capricorne : Avance avec détermination.",
+        "sante": "Capricorne : Prends soin de toi.",
+        "conseil": "Capricorne : Reste à l'écoute de ton intuition."
+      },
+      "verseau": {
+        "general": "Verseau : Journée pleine de surprises.",
+        "amour": "Verseau : L’amour pourrait frapper à ta porte.",
+        "travail": "Verseau : Avance avec détermination.",
+        "sante": "Verseau : Prends soin de toi.",
+        "conseil": "Verseau : Reste à l'écoute de ton intuition."
+      },
+      "poissons": {
+        "general": "Poissons : Journée pleine de surprises.",
+        "amour": "Poissons : L’amour pourrait frapper à ta porte.",
+        "travail": "Poissons : Avance avec détermination.",
+        "sante": "Poissons : Prends soin de toi.",
+        "conseil": "Poissons : Reste à l'écoute de ton intuition."
+      }
+    },
+    "2025-04-16": {
+      "belier": {
+        "general": "Belier : Journée pleine de surprises.",
+        "amour": "Belier : L’amour pourrait frapper à ta porte.",
+        "travail": "Belier : Avance avec détermination.",
+        "sante": "Belier : Prends soin de toi.",
+        "conseil": "Belier : Reste à l'écoute de ton intuition."
+      },
+      "taureau": {
+        "general": "Taureau : Journée pleine de surprises.",
+        "amour": "Taureau : L’amour pourrait frapper à ta porte.",
+        "travail": "Taureau : Avance avec détermination.",
+        "sante": "Taureau : Prends soin de toi.",
+        "conseil": "Taureau : Reste à l'écoute de ton intuition."
+      },
+      "gemeaux": {
+        "general": "Gemeaux : Journée pleine de surprises.",
+        "amour": "Gemeaux : L’amour pourrait frapper à ta porte.",
+        "travail": "Gemeaux : Avance avec détermination.",
+        "sante": "Gemeaux : Prends soin de toi.",
+        "conseil": "Gemeaux : Reste à l'écoute de ton intuition."
+      },
+      "cancer": {
+        "general": "Cancer : Journée pleine de surprises.",
+        "amour": "Cancer : L’amour pourrait frapper à ta porte.",
+        "travail": "Cancer : Avance avec détermination.",
+        "sante": "Cancer : Prends soin de toi.",
+        "conseil": "Cancer : Reste à l'écoute de ton intuition."
+      },
+      "lion": {
+        "general": "Lion : Journée pleine de surprises.",
+        "amour": "Lion : L’amour pourrait frapper à ta porte.",
+        "travail": "Lion : Avance avec détermination.",
+        "sante": "Lion : Prends soin de toi.",
+        "conseil": "Lion : Reste à l'écoute de ton intuition."
+      },
+      "vierge": {
+        "general": "Vierge : Journée pleine de surprises.",
+        "amour": "Vierge : L’amour pourrait frapper à ta porte.",
+        "travail": "Vierge : Avance avec détermination.",
+        "sante": "Vierge : Prends soin de toi.",
+        "conseil": "Vierge : Reste à l'écoute de ton intuition."
+      },
+      "balance": {
+        "general": "Balance : Journée pleine de surprises.",
+        "amour": "Balance : L’amour pourrait frapper à ta porte.",
+        "travail": "Balance : Avance avec détermination.",
+        "sante": "Balance : Prends soin de toi.",
+        "conseil": "Balance : Reste à l'écoute de ton intuition."
+      },
+      "scorpion": {
+        "general": "Scorpion : Journée pleine de surprises.",
+        "amour": "Scorpion : L’amour pourrait frapper à ta porte.",
+        "travail": "Scorpion : Avance avec détermination.",
+        "sante": "Scorpion : Prends soin de toi.",
+        "conseil": "Scorpion : Reste à l'écoute de ton intuition."
+      },
+      "sagittaire": {
+        "general": "Sagittaire : Journée pleine de surprises.",
+        "amour": "Sagittaire : L’amour pourrait frapper à ta porte.",
+        "travail": "Sagittaire : Avance avec détermination.",
+        "sante": "Sagittaire : Prends soin de toi.",
+        "conseil": "Sagittaire : Reste à l'écoute de ton intuition."
+      },
+      "capricorne": {
+        "general": "Capricorne : Journée pleine de surprises.",
+        "amour": "Capricorne : L’amour pourrait frapper à ta porte.",
+        "travail": "Capricorne : Avance avec détermination.",
+        "sante": "Capricorne : Prends soin de toi.",
+        "conseil": "Capricorne : Reste à l'écoute de ton intuition."
+      },
+      "verseau": {
+        "general": "Verseau : Journée pleine de surprises.",
+        "amour": "Verseau : L’amour pourrait frapper à ta porte.",
+        "travail": "Verseau : Avance avec détermination.",
+        "sante": "Verseau : Prends soin de toi.",
+        "conseil": "Verseau : Reste à l'écoute de ton intuition."
+      },
+      "poissons": {
+        "general": "Poissons : Journée pleine de surprises.",
+        "amour": "Poissons : L’amour pourrait frapper à ta porte.",
+        "travail": "Poissons : Avance avec détermination.",
+        "sante": "Poissons : Prends soin de toi.",
+        "conseil": "Poissons : Reste à l'écoute de ton intuition."
+      }
+    },
+    "2025-04-17": {
+      "belier": {
+        "general": "Belier : Journée pleine de surprises.",
+        "amour": "Belier : L’amour pourrait frapper à ta porte.",
+        "travail": "Belier : Avance avec détermination.",
+        "sante": "Belier : Prends soin de toi.",
+        "conseil": "Belier : Reste à l'écoute de ton intuition."
+      },
+      "taureau": {
+        "general": "Taureau : Journée pleine de surprises.",
+        "amour": "Taureau : L’amour pourrait frapper à ta porte.",
+        "travail": "Taureau : Avance avec détermination.",
+        "sante": "Taureau : Prends soin de toi.",
+        "conseil": "Taureau : Reste à l'écoute de ton intuition."
+      },
+      "gemeaux": {
+        "general": "Gemeaux : Journée pleine de surprises.",
+        "amour": "Gemeaux : L’amour pourrait frapper à ta porte.",
+        "travail": "Gemeaux : Avance avec détermination.",
+        "sante": "Gemeaux : Prends soin de toi.",
+        "conseil": "Gemeaux : Reste à l'écoute de ton intuition."
+      },
+      "cancer": {
+        "general": "Cancer : Journée pleine de surprises.",
+        "amour": "Cancer : L’amour pourrait frapper à ta porte.",
+        "travail": "Cancer : Avance avec détermination.",
+        "sante": "Cancer : Prends soin de toi.",
+        "conseil": "Cancer : Reste à l'écoute de ton intuition."
+      },
+      "lion": {
+        "general": "Lion : Journée pleine de surprises.",
+        "amour": "Lion : L’amour pourrait frapper à ta porte.",
+        "travail": "Lion : Avance avec détermination.",
+        "sante": "Lion : Prends soin de toi.",
+        "conseil": "Lion : Reste à l'écoute de ton intuition."
+      },
+      "vierge": {
+        "general": "Vierge : Journée pleine de surprises.",
+        "amour": "Vierge : L’amour pourrait frapper à ta porte.",
+        "travail": "Vierge : Avance avec détermination.",
+        "sante": "Vierge : Prends soin de toi.",
+        "conseil": "Vierge : Reste à l'écoute de ton intuition."
+      },
+      "balance": {
+        "general": "Balance : Journée pleine de surprises.",
+        "amour": "Balance : L’amour pourrait frapper à ta porte.",
+        "travail": "Balance : Avance avec détermination.",
+        "sante": "Balance : Prends soin de toi.",
+        "conseil": "Balance : Reste à l'écoute de ton intuition."
+      },
+      "scorpion": {
+        "general": "Scorpion : Journée pleine de surprises.",
+        "amour": "Scorpion : L’amour pourrait frapper à ta porte.",
+        "travail": "Scorpion : Avance avec détermination.",
+        "sante": "Scorpion : Prends soin de toi.",
+        "conseil": "Scorpion : Reste à l'écoute de ton intuition."
+      },
+      "sagittaire": {
+        "general": "Sagittaire : Journée pleine de surprises.",
+        "amour": "Sagittaire : L’amour pourrait frapper à ta porte.",
+        "travail": "Sagittaire : Avance avec détermination.",
+        "sante": "Sagittaire : Prends soin de toi.",
+        "conseil": "Sagittaire : Reste à l'écoute de ton intuition."
+      },
+      "capricorne": {
+        "general": "Capricorne : Journée pleine de surprises.",
+        "amour": "Capricorne : L’amour pourrait frapper à ta porte.",
+        "travail": "Capricorne : Avance avec détermination.",
+        "sante": "Capricorne : Prends soin de toi.",
+        "conseil": "Capricorne : Reste à l'écoute de ton intuition."
+      },
+      "verseau": {
+        "general": "Verseau : Journée pleine de surprises.",
+        "amour": "Verseau : L’amour pourrait frapper à ta porte.",
+        "travail": "Verseau : Avance avec détermination.",
+        "sante": "Verseau : Prends soin de toi.",
+        "conseil": "Verseau : Reste à l'écoute de ton intuition."
+      },
+      "poissons": {
+        "general": "Poissons : Journée pleine de surprises.",
+        "amour": "Poissons : L’amour pourrait frapper à ta porte.",
+        "travail": "Poissons : Avance avec détermination.",
+        "sante": "Poissons : Prends soin de toi.",
+        "conseil": "Poissons : Reste à l'écoute de ton intuition."
+      }
+    },
+    "2025-04-18": {
+      "belier": {
+        "general": "Belier : Journée pleine de surprises.",
+        "amour": "Belier : L’amour pourrait frapper à ta porte.",
+        "travail": "Belier : Avance avec détermination.",
+        "sante": "Belier : Prends soin de toi.",
+        "conseil": "Belier : Reste à l'écoute de ton intuition."
+      },
+      "taureau": {
+        "general": "Taureau : Journée pleine de surprises.",
+        "amour": "Taureau : L’amour pourrait frapper à ta porte.",
+        "travail": "Taureau : Avance avec détermination.",
+        "sante": "Taureau : Prends soin de toi.",
+        "conseil": "Taureau : Reste à l'écoute de ton intuition."
+      },
+      "gemeaux": {
+        "general": "Gemeaux : Journée pleine de surprises.",
+        "amour": "Gemeaux : L’amour pourrait frapper à ta porte.",
+        "travail": "Gemeaux : Avance avec détermination.",
+        "sante": "Gemeaux : Prends soin de toi.",
+        "conseil": "Gemeaux : Reste à l'écoute de ton intuition."
+      },
+      "cancer": {
+        "general": "Cancer : Journée pleine de surprises.",
+        "amour": "Cancer : L’amour pourrait frapper à ta porte.",
+        "travail": "Cancer : Avance avec détermination.",
+        "sante": "Cancer : Prends soin de toi.",
+        "conseil": "Cancer : Reste à l'écoute de ton intuition."
+      },
+      "lion": {
+        "general": "Lion : Journée pleine de surprises.",
+        "amour": "Lion : L’amour pourrait frapper à ta porte.",
+        "travail": "Lion : Avance avec détermination.",
+        "sante": "Lion : Prends soin de toi.",
+        "conseil": "Lion : Reste à l'écoute de ton intuition."
+      },
+      "vierge": {
+        "general": "Vierge : Journée pleine de surprises.",
+        "amour": "Vierge : L’amour pourrait frapper à ta porte.",
+        "travail": "Vierge : Avance avec détermination.",
+        "sante": "Vierge : Prends soin de toi.",
+        "conseil": "Vierge : Reste à l'écoute de ton intuition."
+      },
+      "balance": {
+        "general": "Balance : Journée pleine de surprises.",
+        "amour": "Balance : L’amour pourrait frapper à ta porte.",
+        "travail": "Balance : Avance avec détermination.",
+        "sante": "Balance : Prends soin de toi.",
+        "conseil": "Balance : Reste à l'écoute de ton intuition."
+      },
+      "scorpion": {
+        "general": "Scorpion : Journée pleine de surprises.",
+        "amour": "Scorpion : L’amour pourrait frapper à ta porte.",
+        "travail": "Scorpion : Avance avec détermination.",
+        "sante": "Scorpion : Prends soin de toi.",
+        "conseil": "Scorpion : Reste à l'écoute de ton intuition."
+      },
+      "sagittaire": {
+        "general": "Sagittaire : Journée pleine de surprises.",
+        "amour": "Sagittaire : L’amour pourrait frapper à ta porte.",
+        "travail": "Sagittaire : Avance avec détermination.",
+        "sante": "Sagittaire : Prends soin de toi.",
+        "conseil": "Sagittaire : Reste à l'écoute de ton intuition."
+      },
+      "capricorne": {
+        "general": "Capricorne : Journée pleine de surprises.",
+        "amour": "Capricorne : L’amour pourrait frapper à ta porte.",
+        "travail": "Capricorne : Avance avec détermination.",
+        "sante": "Capricorne : Prends soin de toi.",
+        "conseil": "Capricorne : Reste à l'écoute de ton intuition."
+      },
+      "verseau": {
+        "general": "Verseau : Journée pleine de surprises.",
+        "amour": "Verseau : L’amour pourrait frapper à ta porte.",
+        "travail": "Verseau : Avance avec détermination.",
+        "sante": "Verseau : Prends soin de toi.",
+        "conseil": "Verseau : Reste à l'écoute de ton intuition."
+      },
+      "poissons": {
+        "general": "Poissons : Journée pleine de surprises.",
+        "amour": "Poissons : L’amour pourrait frapper à ta porte.",
+        "travail": "Poissons : Avance avec détermination.",
+        "sante": "Poissons : Prends soin de toi.",
+        "conseil": "Poissons : Reste à l'écoute de ton intuition."
+      }
+    },
+    "2025-04-19": {
+      "belier": {
+        "general": "Belier : Journée pleine de surprises.",
+        "amour": "Belier : L’amour pourrait frapper à ta porte.",
+        "travail": "Belier : Avance avec détermination.",
+        "sante": "Belier : Prends soin de toi.",
+        "conseil": "Belier : Reste à l'écoute de ton intuition."
+      },
+      "taureau": {
+        "general": "Taureau : Journée pleine de surprises.",
+        "amour": "Taureau : L’amour pourrait frapper à ta porte.",
+        "travail": "Taureau : Avance avec détermination.",
+        "sante": "Taureau : Prends soin de toi.",
+        "conseil": "Taureau : Reste à l'écoute de ton intuition."
+      },
+      "gemeaux": {
+        "general": "Gemeaux : Journée pleine de surprises.",
+        "amour": "Gemeaux : L’amour pourrait frapper à ta porte.",
+        "travail": "Gemeaux : Avance avec détermination.",
+        "sante": "Gemeaux : Prends soin de toi.",
+        "conseil": "Gemeaux : Reste à l'écoute de ton intuition."
+      },
+      "cancer": {
+        "general": "Cancer : Journée pleine de surprises.",
+        "amour": "Cancer : L’amour pourrait frapper à ta porte.",
+        "travail": "Cancer : Avance avec détermination.",
+        "sante": "Cancer : Prends soin de toi.",
+        "conseil": "Cancer : Reste à l'écoute de ton intuition."
+      },
+      "lion": {
+        "general": "Lion : Journée pleine de surprises.",
+        "amour": "Lion : L’amour pourrait frapper à ta porte.",
+        "travail": "Lion : Avance avec détermination.",
+        "sante": "Lion : Prends soin de toi.",
+        "conseil": "Lion : Reste à l'écoute de ton intuition."
+      },
+      "vierge": {
+        "general": "Vierge : Journée pleine de surprises.",
+        "amour": "Vierge : L’amour pourrait frapper à ta porte.",
+        "travail": "Vierge : Avance avec détermination.",
+        "sante": "Vierge : Prends soin de toi.",
+        "conseil": "Vierge : Reste à l'écoute de ton intuition."
+      },
+      "balance": {
+        "general": "Balance : Journée pleine de surprises.",
+        "amour": "Balance : L’amour pourrait frapper à ta porte.",
+        "travail": "Balance : Avance avec détermination.",
+        "sante": "Balance : Prends soin de toi.",
+        "conseil": "Balance : Reste à l'écoute de ton intuition."
+      },
+      "scorpion": {
+        "general": "Scorpion : Journée pleine de surprises.",
+        "amour": "Scorpion : L’amour pourrait frapper à ta porte.",
+        "travail": "Scorpion : Avance avec détermination.",
+        "sante": "Scorpion : Prends soin de toi.",
+        "conseil": "Scorpion : Reste à l'écoute de ton intuition."
+      },
+      "sagittaire": {
+        "general": "Sagittaire : Journée pleine de surprises.",
+        "amour": "Sagittaire : L’amour pourrait frapper à ta porte.",
+        "travail": "Sagittaire : Avance avec détermination.",
+        "sante": "Sagittaire : Prends soin de toi.",
+        "conseil": "Sagittaire : Reste à l'écoute de ton intuition."
+      },
+      "capricorne": {
+        "general": "Capricorne : Journée pleine de surprises.",
+        "amour": "Capricorne : L’amour pourrait frapper à ta porte.",
+        "travail": "Capricorne : Avance avec détermination.",
+        "sante": "Capricorne : Prends soin de toi.",
+        "conseil": "Capricorne : Reste à l'écoute de ton intuition."
+      },
+      "verseau": {
+        "general": "Verseau : Journée pleine de surprises.",
+        "amour": "Verseau : L’amour pourrait frapper à ta porte.",
+        "travail": "Verseau : Avance avec détermination.",
+        "sante": "Verseau : Prends soin de toi.",
+        "conseil": "Verseau : Reste à l'écoute de ton intuition."
+      },
+      "poissons": {
+        "general": "Poissons : Journée pleine de surprises.",
+        "amour": "Poissons : L’amour pourrait frapper à ta porte.",
+        "travail": "Poissons : Avance avec détermination.",
+        "sante": "Poissons : Prends soin de toi.",
+        "conseil": "Poissons : Reste à l'écoute de ton intuition."
+      }
+    },
     "2025-04-20": {
-      "belier": "Tu démarres la journée plein d'énergie.",
-      "taureau": "Reste concentré sur tes objectifs.",
-      "gemeaux": "Des discussions intéressantes s’annoncent.",
-      "cancer": "L’intuition sera ta force.",
-      "lion": "Affirme-toi sans arrogance.",
-      "vierge": "Organise ton planning avec rigueur.",
-      "balance": "Un vent d’équilibre souffle sur ta journée.",
-      "scorpion": "Tu es prêt à percer des mystères.",
-      "sagittaire": "Un projet pourrait se débloquer.",
-      "capricorne": "Ton sérieux est ta meilleure arme.",
-      "verseau": "Crée, innove, exprime-toi.",
-      "poissons": "Ta sensibilité est une force."
+      "belier": {
+        "general": "Belier : Journée pleine de surprises.",
+        "amour": "Belier : L’amour pourrait frapper à ta porte.",
+        "travail": "Belier : Avance avec détermination.",
+        "sante": "Belier : Prends soin de toi.",
+        "conseil": "Belier : Reste à l'écoute de ton intuition."
+      },
+      "taureau": {
+        "general": "Taureau : Journée pleine de surprises.",
+        "amour": "Taureau : L’amour pourrait frapper à ta porte.",
+        "travail": "Taureau : Avance avec détermination.",
+        "sante": "Taureau : Prends soin de toi.",
+        "conseil": "Taureau : Reste à l'écoute de ton intuition."
+      },
+      "gemeaux": {
+        "general": "Gemeaux : Journée pleine de surprises.",
+        "amour": "Gemeaux : L’amour pourrait frapper à ta porte.",
+        "travail": "Gemeaux : Avance avec détermination.",
+        "sante": "Gemeaux : Prends soin de toi.",
+        "conseil": "Gemeaux : Reste à l'écoute de ton intuition."
+      },
+      "cancer": {
+        "general": "Cancer : Journée pleine de surprises.",
+        "amour": "Cancer : L’amour pourrait frapper à ta porte.",
+        "travail": "Cancer : Avance avec détermination.",
+        "sante": "Cancer : Prends soin de toi.",
+        "conseil": "Cancer : Reste à l'écoute de ton intuition."
+      },
+      "lion": {
+        "general": "Lion : Journée pleine de surprises.",
+        "amour": "Lion : L’amour pourrait frapper à ta porte.",
+        "travail": "Lion : Avance avec détermination.",
+        "sante": "Lion : Prends soin de toi.",
+        "conseil": "Lion : Reste à l'écoute de ton intuition."
+      },
+      "vierge": {
+        "general": "Vierge : Journée pleine de surprises.",
+        "amour": "Vierge : L’amour pourrait frapper à ta porte.",
+        "travail": "Vierge : Avance avec détermination.",
+        "sante": "Vierge : Prends soin de toi.",
+        "conseil": "Vierge : Reste à l'écoute de ton intuition."
+      },
+      "balance": {
+        "general": "Balance : Journée pleine de surprises.",
+        "amour": "Balance : L’amour pourrait frapper à ta porte.",
+        "travail": "Balance : Avance avec détermination.",
+        "sante": "Balance : Prends soin de toi.",
+        "conseil": "Balance : Reste à l'écoute de ton intuition."
+      },
+      "scorpion": {
+        "general": "Scorpion : Journée pleine de surprises.",
+        "amour": "Scorpion : L’amour pourrait frapper à ta porte.",
+        "travail": "Scorpion : Avance avec détermination.",
+        "sante": "Scorpion : Prends soin de toi.",
+        "conseil": "Scorpion : Reste à l'écoute de ton intuition."
+      },
+      "sagittaire": {
+        "general": "Sagittaire : Journée pleine de surprises.",
+        "amour": "Sagittaire : L’amour pourrait frapper à ta porte.",
+        "travail": "Sagittaire : Avance avec détermination.",
+        "sante": "Sagittaire : Prends soin de toi.",
+        "conseil": "Sagittaire : Reste à l'écoute de ton intuition."
+      },
+      "capricorne": {
+        "general": "Capricorne : Journée pleine de surprises.",
+        "amour": "Capricorne : L’amour pourrait frapper à ta porte.",
+        "travail": "Capricorne : Avance avec détermination.",
+        "sante": "Capricorne : Prends soin de toi.",
+        "conseil": "Capricorne : Reste à l'écoute de ton intuition."
+      },
+      "verseau": {
+        "general": "Verseau : Journée pleine de surprises.",
+        "amour": "Verseau : L’amour pourrait frapper à ta porte.",
+        "travail": "Verseau : Avance avec détermination.",
+        "sante": "Verseau : Prends soin de toi.",
+        "conseil": "Verseau : Reste à l'écoute de ton intuition."
+      },
+      "poissons": {
+        "general": "Poissons : Journée pleine de surprises.",
+        "amour": "Poissons : L’amour pourrait frapper à ta porte.",
+        "travail": "Poissons : Avance avec détermination.",
+        "sante": "Poissons : Prends soin de toi.",
+        "conseil": "Poissons : Reste à l'écoute de ton intuition."
+      }
+    },
+    "2025-04-21": {
+      "belier": {
+        "general": "Belier : Journée pleine de surprises.",
+        "amour": "Belier : L’amour pourrait frapper à ta porte.",
+        "travail": "Belier : Avance avec détermination.",
+        "sante": "Belier : Prends soin de toi.",
+        "conseil": "Belier : Reste à l'écoute de ton intuition."
+      },
+      "taureau": {
+        "general": "Taureau : Journée pleine de surprises.",
+        "amour": "Taureau : L’amour pourrait frapper à ta porte.",
+        "travail": "Taureau : Avance avec détermination.",
+        "sante": "Taureau : Prends soin de toi.",
+        "conseil": "Taureau : Reste à l'écoute de ton intuition."
+      },
+      "gemeaux": {
+        "general": "Gemeaux : Journée pleine de surprises.",
+        "amour": "Gemeaux : L’amour pourrait frapper à ta porte.",
+        "travail": "Gemeaux : Avance avec détermination.",
+        "sante": "Gemeaux : Prends soin de toi.",
+        "conseil": "Gemeaux : Reste à l'écoute de ton intuition."
+      },
+      "cancer": {
+        "general": "Cancer : Journée pleine de surprises.",
+        "amour": "Cancer : L’amour pourrait frapper à ta porte.",
+        "travail": "Cancer : Avance avec détermination.",
+        "sante": "Cancer : Prends soin de toi.",
+        "conseil": "Cancer : Reste à l'écoute de ton intuition."
+      },
+      "lion": {
+        "general": "Lion : Journée pleine de surprises.",
+        "amour": "Lion : L’amour pourrait frapper à ta porte.",
+        "travail": "Lion : Avance avec détermination.",
+        "sante": "Lion : Prends soin de toi.",
+        "conseil": "Lion : Reste à l'écoute de ton intuition."
+      },
+      "vierge": {
+        "general": "Vierge : Journée pleine de surprises.",
+        "amour": "Vierge : L’amour pourrait frapper à ta porte.",
+        "travail": "Vierge : Avance avec détermination.",
+        "sante": "Vierge : Prends soin de toi.",
+        "conseil": "Vierge : Reste à l'écoute de ton intuition."
+      },
+      "balance": {
+        "general": "Balance : Journée pleine de surprises.",
+        "amour": "Balance : L’amour pourrait frapper à ta porte.",
+        "travail": "Balance : Avance avec détermination.",
+        "sante": "Balance : Prends soin de toi.",
+        "conseil": "Balance : Reste à l'écoute de ton intuition."
+      },
+      "scorpion": {
+        "general": "Scorpion : Journée pleine de surprises.",
+        "amour": "Scorpion : L’amour pourrait frapper à ta porte.",
+        "travail": "Scorpion : Avance avec détermination.",
+        "sante": "Scorpion : Prends soin de toi.",
+        "conseil": "Scorpion : Reste à l'écoute de ton intuition."
+      },
+      "sagittaire": {
+        "general": "Sagittaire : Journée pleine de surprises.",
+        "amour": "Sagittaire : L’amour pourrait frapper à ta porte.",
+        "travail": "Sagittaire : Avance avec détermination.",
+        "sante": "Sagittaire : Prends soin de toi.",
+        "conseil": "Sagittaire : Reste à l'écoute de ton intuition."
+      },
+      "capricorne": {
+        "general": "Capricorne : Journée pleine de surprises.",
+        "amour": "Capricorne : L’amour pourrait frapper à ta porte.",
+        "travail": "Capricorne : Avance avec détermination.",
+        "sante": "Capricorne : Prends soin de toi.",
+        "conseil": "Capricorne : Reste à l'écoute de ton intuition."
+      },
+      "verseau": {
+        "general": "Verseau : Journée pleine de surprises.",
+        "amour": "Verseau : L’amour pourrait frapper à ta porte.",
+        "travail": "Verseau : Avance avec détermination.",
+        "sante": "Verseau : Prends soin de toi.",
+        "conseil": "Verseau : Reste à l'écoute de ton intuition."
+      },
+      "poissons": {
+        "general": "Poissons : Journée pleine de surprises.",
+        "amour": "Poissons : L’amour pourrait frapper à ta porte.",
+        "travail": "Poissons : Avance avec détermination.",
+        "sante": "Poissons : Prends soin de toi.",
+        "conseil": "Poissons : Reste à l'écoute de ton intuition."
+      }
+    },
+    "2025-04-22": {
+      "belier": {
+        "general": "Belier : Journée pleine de surprises.",
+        "amour": "Belier : L’amour pourrait frapper à ta porte.",
+        "travail": "Belier : Avance avec détermination.",
+        "sante": "Belier : Prends soin de toi.",
+        "conseil": "Belier : Reste à l'écoute de ton intuition."
+      },
+      "taureau": {
+        "general": "Taureau : Journée pleine de surprises.",
+        "amour": "Taureau : L’amour pourrait frapper à ta porte.",
+        "travail": "Taureau : Avance avec détermination.",
+        "sante": "Taureau : Prends soin de toi.",
+        "conseil": "Taureau : Reste à l'écoute de ton intuition."
+      },
+      "gemeaux": {
+        "general": "Gemeaux : Journée pleine de surprises.",
+        "amour": "Gemeaux : L’amour pourrait frapper à ta porte.",
+        "travail": "Gemeaux : Avance avec détermination.",
+        "sante": "Gemeaux : Prends soin de toi.",
+        "conseil": "Gemeaux : Reste à l'écoute de ton intuition."
+      },
+      "cancer": {
+        "general": "Cancer : Journée pleine de surprises.",
+        "amour": "Cancer : L’amour pourrait frapper à ta porte.",
+        "travail": "Cancer : Avance avec détermination.",
+        "sante": "Cancer : Prends soin de toi.",
+        "conseil": "Cancer : Reste à l'écoute de ton intuition."
+      },
+      "lion": {
+        "general": "Lion : Journée pleine de surprises.",
+        "amour": "Lion : L’amour pourrait frapper à ta porte.",
+        "travail": "Lion : Avance avec détermination.",
+        "sante": "Lion : Prends soin de toi.",
+        "conseil": "Lion : Reste à l'écoute de ton intuition."
+      },
+      "vierge": {
+        "general": "Vierge : Journée pleine de surprises.",
+        "amour": "Vierge : L’amour pourrait frapper à ta porte.",
+        "travail": "Vierge : Avance avec détermination.",
+        "sante": "Vierge : Prends soin de toi.",
+        "conseil": "Vierge : Reste à l'écoute de ton intuition."
+      },
+      "balance": {
+        "general": "Balance : Journée pleine de surprises.",
+        "amour": "Balance : L’amour pourrait frapper à ta porte.",
+        "travail": "Balance : Avance avec détermination.",
+        "sante": "Balance : Prends soin de toi.",
+        "conseil": "Balance : Reste à l'écoute de ton intuition."
+      },
+      "scorpion": {
+        "general": "Scorpion : Journée pleine de surprises.",
+        "amour": "Scorpion : L’amour pourrait frapper à ta porte.",
+        "travail": "Scorpion : Avance avec détermination.",
+        "sante": "Scorpion : Prends soin de toi.",
+        "conseil": "Scorpion : Reste à l'écoute de ton intuition."
+      },
+      "sagittaire": {
+        "general": "Sagittaire : Journée pleine de surprises.",
+        "amour": "Sagittaire : L’amour pourrait frapper à ta porte.",
+        "travail": "Sagittaire : Avance avec détermination.",
+        "sante": "Sagittaire : Prends soin de toi.",
+        "conseil": "Sagittaire : Reste à l'écoute de ton intuition."
+      },
+      "capricorne": {
+        "general": "Capricorne : Journée pleine de surprises.",
+        "amour": "Capricorne : L’amour pourrait frapper à ta porte.",
+        "travail": "Capricorne : Avance avec détermination.",
+        "sante": "Capricorne : Prends soin de toi.",
+        "conseil": "Capricorne : Reste à l'écoute de ton intuition."
+      },
+      "verseau": {
+        "general": "Verseau : Journée pleine de surprises.",
+        "amour": "Verseau : L’amour pourrait frapper à ta porte.",
+        "travail": "Verseau : Avance avec détermination.",
+        "sante": "Verseau : Prends soin de toi.",
+        "conseil": "Verseau : Reste à l'écoute de ton intuition."
+      },
+      "poissons": {
+        "general": "Poissons : Journée pleine de surprises.",
+        "amour": "Poissons : L’amour pourrait frapper à ta porte.",
+        "travail": "Poissons : Avance avec détermination.",
+        "sante": "Poissons : Prends soin de toi.",
+        "conseil": "Poissons : Reste à l'écoute de ton intuition."
+      }
+    },
+    "2025-04-23": {
+      "belier": {
+        "general": "Belier : Journée pleine de surprises.",
+        "amour": "Belier : L’amour pourrait frapper à ta porte.",
+        "travail": "Belier : Avance avec détermination.",
+        "sante": "Belier : Prends soin de toi.",
+        "conseil": "Belier : Reste à l'écoute de ton intuition."
+      },
+      "taureau": {
+        "general": "Taureau : Journée pleine de surprises.",
+        "amour": "Taureau : L’amour pourrait frapper à ta porte.",
+        "travail": "Taureau : Avance avec détermination.",
+        "sante": "Taureau : Prends soin de toi.",
+        "conseil": "Taureau : Reste à l'écoute de ton intuition."
+      },
+      "gemeaux": {
+        "general": "Gemeaux : Journée pleine de surprises.",
+        "amour": "Gemeaux : L’amour pourrait frapper à ta porte.",
+        "travail": "Gemeaux : Avance avec détermination.",
+        "sante": "Gemeaux : Prends soin de toi.",
+        "conseil": "Gemeaux : Reste à l'écoute de ton intuition."
+      },
+      "cancer": {
+        "general": "Cancer : Journée pleine de surprises.",
+        "amour": "Cancer : L’amour pourrait frapper à ta porte.",
+        "travail": "Cancer : Avance avec détermination.",
+        "sante": "Cancer : Prends soin de toi.",
+        "conseil": "Cancer : Reste à l'écoute de ton intuition."
+      },
+      "lion": {
+        "general": "Lion : Journée pleine de surprises.",
+        "amour": "Lion : L’amour pourrait frapper à ta porte.",
+        "travail": "Lion : Avance avec détermination.",
+        "sante": "Lion : Prends soin de toi.",
+        "conseil": "Lion : Reste à l'écoute de ton intuition."
+      },
+      "vierge": {
+        "general": "Vierge : Journée pleine de surprises.",
+        "amour": "Vierge : L’amour pourrait frapper à ta porte.",
+        "travail": "Vierge : Avance avec détermination.",
+        "sante": "Vierge : Prends soin de toi.",
+        "conseil": "Vierge : Reste à l'écoute de ton intuition."
+      },
+      "balance": {
+        "general": "Balance : Journée pleine de surprises.",
+        "amour": "Balance : L’amour pourrait frapper à ta porte.",
+        "travail": "Balance : Avance avec détermination.",
+        "sante": "Balance : Prends soin de toi.",
+        "conseil": "Balance : Reste à l'écoute de ton intuition."
+      },
+      "scorpion": {
+        "general": "Scorpion : Journée pleine de surprises.",
+        "amour": "Scorpion : L’amour pourrait frapper à ta porte.",
+        "travail": "Scorpion : Avance avec détermination.",
+        "sante": "Scorpion : Prends soin de toi.",
+        "conseil": "Scorpion : Reste à l'écoute de ton intuition."
+      },
+      "sagittaire": {
+        "general": "Sagittaire : Journée pleine de surprises.",
+        "amour": "Sagittaire : L’amour pourrait frapper à ta porte.",
+        "travail": "Sagittaire : Avance avec détermination.",
+        "sante": "Sagittaire : Prends soin de toi.",
+        "conseil": "Sagittaire : Reste à l'écoute de ton intuition."
+      },
+      "capricorne": {
+        "general": "Capricorne : Journée pleine de surprises.",
+        "amour": "Capricorne : L’amour pourrait frapper à ta porte.",
+        "travail": "Capricorne : Avance avec détermination.",
+        "sante": "Capricorne : Prends soin de toi.",
+        "conseil": "Capricorne : Reste à l'écoute de ton intuition."
+      },
+      "verseau": {
+        "general": "Verseau : Journée pleine de surprises.",
+        "amour": "Verseau : L’amour pourrait frapper à ta porte.",
+        "travail": "Verseau : Avance avec détermination.",
+        "sante": "Verseau : Prends soin de toi.",
+        "conseil": "Verseau : Reste à l'écoute de ton intuition."
+      },
+      "poissons": {
+        "general": "Poissons : Journée pleine de surprises.",
+        "amour": "Poissons : L’amour pourrait frapper à ta porte.",
+        "travail": "Poissons : Avance avec détermination.",
+        "sante": "Poissons : Prends soin de toi.",
+        "conseil": "Poissons : Reste à l'écoute de ton intuition."
+      }
+    },
+    "2025-04-24": {
+      "belier": {
+        "general": "Belier : Journée pleine de surprises.",
+        "amour": "Belier : L’amour pourrait frapper à ta porte.",
+        "travail": "Belier : Avance avec détermination.",
+        "sante": "Belier : Prends soin de toi.",
+        "conseil": "Belier : Reste à l'écoute de ton intuition."
+      },
+      "taureau": {
+        "general": "Taureau : Journée pleine de surprises.",
+        "amour": "Taureau : L’amour pourrait frapper à ta porte.",
+        "travail": "Taureau : Avance avec détermination.",
+        "sante": "Taureau : Prends soin de toi.",
+        "conseil": "Taureau : Reste à l'écoute de ton intuition."
+      },
+      "gemeaux": {
+        "general": "Gemeaux : Journée pleine de surprises.",
+        "amour": "Gemeaux : L’amour pourrait frapper à ta porte.",
+        "travail": "Gemeaux : Avance avec détermination.",
+        "sante": "Gemeaux : Prends soin de toi.",
+        "conseil": "Gemeaux : Reste à l'écoute de ton intuition."
+      },
+      "cancer": {
+        "general": "Cancer : Journée pleine de surprises.",
+        "amour": "Cancer : L’amour pourrait frapper à ta porte.",
+        "travail": "Cancer : Avance avec détermination.",
+        "sante": "Cancer : Prends soin de toi.",
+        "conseil": "Cancer : Reste à l'écoute de ton intuition."
+      },
+      "lion": {
+        "general": "Lion : Journée pleine de surprises.",
+        "amour": "Lion : L’amour pourrait frapper à ta porte.",
+        "travail": "Lion : Avance avec détermination.",
+        "sante": "Lion : Prends soin de toi.",
+        "conseil": "Lion : Reste à l'écoute de ton intuition."
+      },
+      "vierge": {
+        "general": "Vierge : Journée pleine de surprises.",
+        "amour": "Vierge : L’amour pourrait frapper à ta porte.",
+        "travail": "Vierge : Avance avec détermination.",
+        "sante": "Vierge : Prends soin de toi.",
+        "conseil": "Vierge : Reste à l'écoute de ton intuition."
+      },
+      "balance": {
+        "general": "Balance : Journée pleine de surprises.",
+        "amour": "Balance : L’amour pourrait frapper à ta porte.",
+        "travail": "Balance : Avance avec détermination.",
+        "sante": "Balance : Prends soin de toi.",
+        "conseil": "Balance : Reste à l'écoute de ton intuition."
+      },
+      "scorpion": {
+        "general": "Scorpion : Journée pleine de surprises.",
+        "amour": "Scorpion : L’amour pourrait frapper à ta porte.",
+        "travail": "Scorpion : Avance avec détermination.",
+        "sante": "Scorpion : Prends soin de toi.",
+        "conseil": "Scorpion : Reste à l'écoute de ton intuition."
+      },
+      "sagittaire": {
+        "general": "Sagittaire : Journée pleine de surprises.",
+        "amour": "Sagittaire : L’amour pourrait frapper à ta porte.",
+        "travail": "Sagittaire : Avance avec détermination.",
+        "sante": "Sagittaire : Prends soin de toi.",
+        "conseil": "Sagittaire : Reste à l'écoute de ton intuition."
+      },
+      "capricorne": {
+        "general": "Capricorne : Journée pleine de surprises.",
+        "amour": "Capricorne : L’amour pourrait frapper à ta porte.",
+        "travail": "Capricorne : Avance avec détermination.",
+        "sante": "Capricorne : Prends soin de toi.",
+        "conseil": "Capricorne : Reste à l'écoute de ton intuition."
+      },
+      "verseau": {
+        "general": "Verseau : Journée pleine de surprises.",
+        "amour": "Verseau : L’amour pourrait frapper à ta porte.",
+        "travail": "Verseau : Avance avec détermination.",
+        "sante": "Verseau : Prends soin de toi.",
+        "conseil": "Verseau : Reste à l'écoute de ton intuition."
+      },
+      "poissons": {
+        "general": "Poissons : Journée pleine de surprises.",
+        "amour": "Poissons : L’amour pourrait frapper à ta porte.",
+        "travail": "Poissons : Avance avec détermination.",
+        "sante": "Poissons : Prends soin de toi.",
+        "conseil": "Poissons : Reste à l'écoute de ton intuition."
+      }
+    },
+    "2025-04-25": {
+      "belier": {
+        "general": "Belier : Journée pleine de surprises.",
+        "amour": "Belier : L’amour pourrait frapper à ta porte.",
+        "travail": "Belier : Avance avec détermination.",
+        "sante": "Belier : Prends soin de toi.",
+        "conseil": "Belier : Reste à l'écoute de ton intuition."
+      },
+      "taureau": {
+        "general": "Taureau : Journée pleine de surprises.",
+        "amour": "Taureau : L’amour pourrait frapper à ta porte.",
+        "travail": "Taureau : Avance avec détermination.",
+        "sante": "Taureau : Prends soin de toi.",
+        "conseil": "Taureau : Reste à l'écoute de ton intuition."
+      },
+      "gemeaux": {
+        "general": "Gemeaux : Journée pleine de surprises.",
+        "amour": "Gemeaux : L’amour pourrait frapper à ta porte.",
+        "travail": "Gemeaux : Avance avec détermination.",
+        "sante": "Gemeaux : Prends soin de toi.",
+        "conseil": "Gemeaux : Reste à l'écoute de ton intuition."
+      },
+      "cancer": {
+        "general": "Cancer : Journée pleine de surprises.",
+        "amour": "Cancer : L’amour pourrait frapper à ta porte.",
+        "travail": "Cancer : Avance avec détermination.",
+        "sante": "Cancer : Prends soin de toi.",
+        "conseil": "Cancer : Reste à l'écoute de ton intuition."
+      },
+      "lion": {
+        "general": "Lion : Journée pleine de surprises.",
+        "amour": "Lion : L’amour pourrait frapper à ta porte.",
+        "travail": "Lion : Avance avec détermination.",
+        "sante": "Lion : Prends soin de toi.",
+        "conseil": "Lion : Reste à l'écoute de ton intuition."
+      },
+      "vierge": {
+        "general": "Vierge : Journée pleine de surprises.",
+        "amour": "Vierge : L’amour pourrait frapper à ta porte.",
+        "travail": "Vierge : Avance avec détermination.",
+        "sante": "Vierge : Prends soin de toi.",
+        "conseil": "Vierge : Reste à l'écoute de ton intuition."
+      },
+      "balance": {
+        "general": "Balance : Journée pleine de surprises.",
+        "amour": "Balance : L’amour pourrait frapper à ta porte.",
+        "travail": "Balance : Avance avec détermination.",
+        "sante": "Balance : Prends soin de toi.",
+        "conseil": "Balance : Reste à l'écoute de ton intuition."
+      },
+      "scorpion": {
+        "general": "Scorpion : Journée pleine de surprises.",
+        "amour": "Scorpion : L’amour pourrait frapper à ta porte.",
+        "travail": "Scorpion : Avance avec détermination.",
+        "sante": "Scorpion : Prends soin de toi.",
+        "conseil": "Scorpion : Reste à l'écoute de ton intuition."
+      },
+      "sagittaire": {
+        "general": "Sagittaire : Journée pleine de surprises.",
+        "amour": "Sagittaire : L’amour pourrait frapper à ta porte.",
+        "travail": "Sagittaire : Avance avec détermination.",
+        "sante": "Sagittaire : Prends soin de toi.",
+        "conseil": "Sagittaire : Reste à l'écoute de ton intuition."
+      },
+      "capricorne": {
+        "general": "Capricorne : Journée pleine de surprises.",
+        "amour": "Capricorne : L’amour pourrait frapper à ta porte.",
+        "travail": "Capricorne : Avance avec détermination.",
+        "sante": "Capricorne : Prends soin de toi.",
+        "conseil": "Capricorne : Reste à l'écoute de ton intuition."
+      },
+      "verseau": {
+        "general": "Verseau : Journée pleine de surprises.",
+        "amour": "Verseau : L’amour pourrait frapper à ta porte.",
+        "travail": "Verseau : Avance avec détermination.",
+        "sante": "Verseau : Prends soin de toi.",
+        "conseil": "Verseau : Reste à l'écoute de ton intuition."
+      },
+      "poissons": {
+        "general": "Poissons : Journée pleine de surprises.",
+        "amour": "Poissons : L’amour pourrait frapper à ta porte.",
+        "travail": "Poissons : Avance avec détermination.",
+        "sante": "Poissons : Prends soin de toi.",
+        "conseil": "Poissons : Reste à l'écoute de ton intuition."
+      }
+    },
+    "2025-04-26": {
+      "belier": {
+        "general": "Belier : Journée pleine de surprises.",
+        "amour": "Belier : L’amour pourrait frapper à ta porte.",
+        "travail": "Belier : Avance avec détermination.",
+        "sante": "Belier : Prends soin de toi.",
+        "conseil": "Belier : Reste à l'écoute de ton intuition."
+      },
+      "taureau": {
+        "general": "Taureau : Journée pleine de surprises.",
+        "amour": "Taureau : L’amour pourrait frapper à ta porte.",
+        "travail": "Taureau : Avance avec détermination.",
+        "sante": "Taureau : Prends soin de toi.",
+        "conseil": "Taureau : Reste à l'écoute de ton intuition."
+      },
+      "gemeaux": {
+        "general": "Gemeaux : Journée pleine de surprises.",
+        "amour": "Gemeaux : L’amour pourrait frapper à ta porte.",
+        "travail": "Gemeaux : Avance avec détermination.",
+        "sante": "Gemeaux : Prends soin de toi.",
+        "conseil": "Gemeaux : Reste à l'écoute de ton intuition."
+      },
+      "cancer": {
+        "general": "Cancer : Journée pleine de surprises.",
+        "amour": "Cancer : L’amour pourrait frapper à ta porte.",
+        "travail": "Cancer : Avance avec détermination.",
+        "sante": "Cancer : Prends soin de toi.",
+        "conseil": "Cancer : Reste à l'écoute de ton intuition."
+      },
+      "lion": {
+        "general": "Lion : Journée pleine de surprises.",
+        "amour": "Lion : L’amour pourrait frapper à ta porte.",
+        "travail": "Lion : Avance avec détermination.",
+        "sante": "Lion : Prends soin de toi.",
+        "conseil": "Lion : Reste à l'écoute de ton intuition."
+      },
+      "vierge": {
+        "general": "Vierge : Journée pleine de surprises.",
+        "amour": "Vierge : L’amour pourrait frapper à ta porte.",
+        "travail": "Vierge : Avance avec détermination.",
+        "sante": "Vierge : Prends soin de toi.",
+        "conseil": "Vierge : Reste à l'écoute de ton intuition."
+      },
+      "balance": {
+        "general": "Balance : Journée pleine de surprises.",
+        "amour": "Balance : L’amour pourrait frapper à ta porte.",
+        "travail": "Balance : Avance avec détermination.",
+        "sante": "Balance : Prends soin de toi.",
+        "conseil": "Balance : Reste à l'écoute de ton intuition."
+      },
+      "scorpion": {
+        "general": "Scorpion : Journée pleine de surprises.",
+        "amour": "Scorpion : L’amour pourrait frapper à ta porte.",
+        "travail": "Scorpion : Avance avec détermination.",
+        "sante": "Scorpion : Prends soin de toi.",
+        "conseil": "Scorpion : Reste à l'écoute de ton intuition."
+      },
+      "sagittaire": {
+        "general": "Sagittaire : Journée pleine de surprises.",
+        "amour": "Sagittaire : L’amour pourrait frapper à ta porte.",
+        "travail": "Sagittaire : Avance avec détermination.",
+        "sante": "Sagittaire : Prends soin de toi.",
+        "conseil": "Sagittaire : Reste à l'écoute de ton intuition."
+      },
+      "capricorne": {
+        "general": "Capricorne : Journée pleine de surprises.",
+        "amour": "Capricorne : L’amour pourrait frapper à ta porte.",
+        "travail": "Capricorne : Avance avec détermination.",
+        "sante": "Capricorne : Prends soin de toi.",
+        "conseil": "Capricorne : Reste à l'écoute de ton intuition."
+      },
+      "verseau": {
+        "general": "Verseau : Journée pleine de surprises.",
+        "amour": "Verseau : L’amour pourrait frapper à ta porte.",
+        "travail": "Verseau : Avance avec détermination.",
+        "sante": "Verseau : Prends soin de toi.",
+        "conseil": "Verseau : Reste à l'écoute de ton intuition."
+      },
+      "poissons": {
+        "general": "Poissons : Journée pleine de surprises.",
+        "amour": "Poissons : L’amour pourrait frapper à ta porte.",
+        "travail": "Poissons : Avance avec détermination.",
+        "sante": "Poissons : Prends soin de toi.",
+        "conseil": "Poissons : Reste à l'écoute de ton intuition."
+      }
+    },
+    "2025-04-27": {
+      "belier": {
+        "general": "Belier : Journée pleine de surprises.",
+        "amour": "Belier : L’amour pourrait frapper à ta porte.",
+        "travail": "Belier : Avance avec détermination.",
+        "sante": "Belier : Prends soin de toi.",
+        "conseil": "Belier : Reste à l'écoute de ton intuition."
+      },
+      "taureau": {
+        "general": "Taureau : Journée pleine de surprises.",
+        "amour": "Taureau : L’amour pourrait frapper à ta porte.",
+        "travail": "Taureau : Avance avec détermination.",
+        "sante": "Taureau : Prends soin de toi.",
+        "conseil": "Taureau : Reste à l'écoute de ton intuition."
+      },
+      "gemeaux": {
+        "general": "Gemeaux : Journée pleine de surprises.",
+        "amour": "Gemeaux : L’amour pourrait frapper à ta porte.",
+        "travail": "Gemeaux : Avance avec détermination.",
+        "sante": "Gemeaux : Prends soin de toi.",
+        "conseil": "Gemeaux : Reste à l'écoute de ton intuition."
+      },
+      "cancer": {
+        "general": "Cancer : Journée pleine de surprises.",
+        "amour": "Cancer : L’amour pourrait frapper à ta porte.",
+        "travail": "Cancer : Avance avec détermination.",
+        "sante": "Cancer : Prends soin de toi.",
+        "conseil": "Cancer : Reste à l'écoute de ton intuition."
+      },
+      "lion": {
+        "general": "Lion : Journée pleine de surprises.",
+        "amour": "Lion : L’amour pourrait frapper à ta porte.",
+        "travail": "Lion : Avance avec détermination.",
+        "sante": "Lion : Prends soin de toi.",
+        "conseil": "Lion : Reste à l'écoute de ton intuition."
+      },
+      "vierge": {
+        "general": "Vierge : Journée pleine de surprises.",
+        "amour": "Vierge : L’amour pourrait frapper à ta porte.",
+        "travail": "Vierge : Avance avec détermination.",
+        "sante": "Vierge : Prends soin de toi.",
+        "conseil": "Vierge : Reste à l'écoute de ton intuition."
+      },
+      "balance": {
+        "general": "Balance : Journée pleine de surprises.",
+        "amour": "Balance : L’amour pourrait frapper à ta porte.",
+        "travail": "Balance : Avance avec détermination.",
+        "sante": "Balance : Prends soin de toi.",
+        "conseil": "Balance : Reste à l'écoute de ton intuition."
+      },
+      "scorpion": {
+        "general": "Scorpion : Journée pleine de surprises.",
+        "amour": "Scorpion : L’amour pourrait frapper à ta porte.",
+        "travail": "Scorpion : Avance avec détermination.",
+        "sante": "Scorpion : Prends soin de toi.",
+        "conseil": "Scorpion : Reste à l'écoute de ton intuition."
+      },
+      "sagittaire": {
+        "general": "Sagittaire : Journée pleine de surprises.",
+        "amour": "Sagittaire : L’amour pourrait frapper à ta porte.",
+        "travail": "Sagittaire : Avance avec détermination.",
+        "sante": "Sagittaire : Prends soin de toi.",
+        "conseil": "Sagittaire : Reste à l'écoute de ton intuition."
+      },
+      "capricorne": {
+        "general": "Capricorne : Journée pleine de surprises.",
+        "amour": "Capricorne : L’amour pourrait frapper à ta porte.",
+        "travail": "Capricorne : Avance avec détermination.",
+        "sante": "Capricorne : Prends soin de toi.",
+        "conseil": "Capricorne : Reste à l'écoute de ton intuition."
+      },
+      "verseau": {
+        "general": "Verseau : Journée pleine de surprises.",
+        "amour": "Verseau : L’amour pourrait frapper à ta porte.",
+        "travail": "Verseau : Avance avec détermination.",
+        "sante": "Verseau : Prends soin de toi.",
+        "conseil": "Verseau : Reste à l'écoute de ton intuition."
+      },
+      "poissons": {
+        "general": "Poissons : Journée pleine de surprises.",
+        "amour": "Poissons : L’amour pourrait frapper à ta porte.",
+        "travail": "Poissons : Avance avec détermination.",
+        "sante": "Poissons : Prends soin de toi.",
+        "conseil": "Poissons : Reste à l'écoute de ton intuition."
+      }
+    },
+    "2025-04-28": {
+      "belier": {
+        "general": "Belier : Journée pleine de surprises.",
+        "amour": "Belier : L’amour pourrait frapper à ta porte.",
+        "travail": "Belier : Avance avec détermination.",
+        "sante": "Belier : Prends soin de toi.",
+        "conseil": "Belier : Reste à l'écoute de ton intuition."
+      },
+      "taureau": {
+        "general": "Taureau : Journée pleine de surprises.",
+        "amour": "Taureau : L’amour pourrait frapper à ta porte.",
+        "travail": "Taureau : Avance avec détermination.",
+        "sante": "Taureau : Prends soin de toi.",
+        "conseil": "Taureau : Reste à l'écoute de ton intuition."
+      },
+      "gemeaux": {
+        "general": "Gemeaux : Journée pleine de surprises.",
+        "amour": "Gemeaux : L’amour pourrait frapper à ta porte.",
+        "travail": "Gemeaux : Avance avec détermination.",
+        "sante": "Gemeaux : Prends soin de toi.",
+        "conseil": "Gemeaux : Reste à l'écoute de ton intuition."
+      },
+      "cancer": {
+        "general": "Cancer : Journée pleine de surprises.",
+        "amour": "Cancer : L’amour pourrait frapper à ta porte.",
+        "travail": "Cancer : Avance avec détermination.",
+        "sante": "Cancer : Prends soin de toi.",
+        "conseil": "Cancer : Reste à l'écoute de ton intuition."
+      },
+      "lion": {
+        "general": "Lion : Journée pleine de surprises.",
+        "amour": "Lion : L’amour pourrait frapper à ta porte.",
+        "travail": "Lion : Avance avec détermination.",
+        "sante": "Lion : Prends soin de toi.",
+        "conseil": "Lion : Reste à l'écoute de ton intuition."
+      },
+      "vierge": {
+        "general": "Vierge : Journée pleine de surprises.",
+        "amour": "Vierge : L’amour pourrait frapper à ta porte.",
+        "travail": "Vierge : Avance avec détermination.",
+        "sante": "Vierge : Prends soin de toi.",
+        "conseil": "Vierge : Reste à l'écoute de ton intuition."
+      },
+      "balance": {
+        "general": "Balance : Journée pleine de surprises.",
+        "amour": "Balance : L’amour pourrait frapper à ta porte.",
+        "travail": "Balance : Avance avec détermination.",
+        "sante": "Balance : Prends soin de toi.",
+        "conseil": "Balance : Reste à l'écoute de ton intuition."
+      },
+      "scorpion": {
+        "general": "Scorpion : Journée pleine de surprises.",
+        "amour": "Scorpion : L’amour pourrait frapper à ta porte.",
+        "travail": "Scorpion : Avance avec détermination.",
+        "sante": "Scorpion : Prends soin de toi.",
+        "conseil": "Scorpion : Reste à l'écoute de ton intuition."
+      },
+      "sagittaire": {
+        "general": "Sagittaire : Journée pleine de surprises.",
+        "amour": "Sagittaire : L’amour pourrait frapper à ta porte.",
+        "travail": "Sagittaire : Avance avec détermination.",
+        "sante": "Sagittaire : Prends soin de toi.",
+        "conseil": "Sagittaire : Reste à l'écoute de ton intuition."
+      },
+      "capricorne": {
+        "general": "Capricorne : Journée pleine de surprises.",
+        "amour": "Capricorne : L’amour pourrait frapper à ta porte.",
+        "travail": "Capricorne : Avance avec détermination.",
+        "sante": "Capricorne : Prends soin de toi.",
+        "conseil": "Capricorne : Reste à l'écoute de ton intuition."
+      },
+      "verseau": {
+        "general": "Verseau : Journée pleine de surprises.",
+        "amour": "Verseau : L’amour pourrait frapper à ta porte.",
+        "travail": "Verseau : Avance avec détermination.",
+        "sante": "Verseau : Prends soin de toi.",
+        "conseil": "Verseau : Reste à l'écoute de ton intuition."
+      },
+      "poissons": {
+        "general": "Poissons : Journée pleine de surprises.",
+        "amour": "Poissons : L’amour pourrait frapper à ta porte.",
+        "travail": "Poissons : Avance avec détermination.",
+        "sante": "Poissons : Prends soin de toi.",
+        "conseil": "Poissons : Reste à l'écoute de ton intuition."
+      }
+    },
+    "2025-04-29": {
+      "belier": {
+        "general": "Belier : Journée pleine de surprises.",
+        "amour": "Belier : L’amour pourrait frapper à ta porte.",
+        "travail": "Belier : Avance avec détermination.",
+        "sante": "Belier : Prends soin de toi.",
+        "conseil": "Belier : Reste à l'écoute de ton intuition."
+      },
+      "taureau": {
+        "general": "Taureau : Journée pleine de surprises.",
+        "amour": "Taureau : L’amour pourrait frapper à ta porte.",
+        "travail": "Taureau : Avance avec détermination.",
+        "sante": "Taureau : Prends soin de toi.",
+        "conseil": "Taureau : Reste à l'écoute de ton intuition."
+      },
+      "gemeaux": {
+        "general": "Gemeaux : Journée pleine de surprises.",
+        "amour": "Gemeaux : L’amour pourrait frapper à ta porte.",
+        "travail": "Gemeaux : Avance avec détermination.",
+        "sante": "Gemeaux : Prends soin de toi.",
+        "conseil": "Gemeaux : Reste à l'écoute de ton intuition."
+      },
+      "cancer": {
+        "general": "Cancer : Journée pleine de surprises.",
+        "amour": "Cancer : L’amour pourrait frapper à ta porte.",
+        "travail": "Cancer : Avance avec détermination.",
+        "sante": "Cancer : Prends soin de toi.",
+        "conseil": "Cancer : Reste à l'écoute de ton intuition."
+      },
+      "lion": {
+        "general": "Lion : Journée pleine de surprises.",
+        "amour": "Lion : L’amour pourrait frapper à ta porte.",
+        "travail": "Lion : Avance avec détermination.",
+        "sante": "Lion : Prends soin de toi.",
+        "conseil": "Lion : Reste à l'écoute de ton intuition."
+      },
+      "vierge": {
+        "general": "Vierge : Journée pleine de surprises.",
+        "amour": "Vierge : L’amour pourrait frapper à ta porte.",
+        "travail": "Vierge : Avance avec détermination.",
+        "sante": "Vierge : Prends soin de toi.",
+        "conseil": "Vierge : Reste à l'écoute de ton intuition."
+      },
+      "balance": {
+        "general": "Balance : Journée pleine de surprises.",
+        "amour": "Balance : L’amour pourrait frapper à ta porte.",
+        "travail": "Balance : Avance avec détermination.",
+        "sante": "Balance : Prends soin de toi.",
+        "conseil": "Balance : Reste à l'écoute de ton intuition."
+      },
+      "scorpion": {
+        "general": "Scorpion : Journée pleine de surprises.",
+        "amour": "Scorpion : L’amour pourrait frapper à ta porte.",
+        "travail": "Scorpion : Avance avec détermination.",
+        "sante": "Scorpion : Prends soin de toi.",
+        "conseil": "Scorpion : Reste à l'écoute de ton intuition."
+      },
+      "sagittaire": {
+        "general": "Sagittaire : Journée pleine de surprises.",
+        "amour": "Sagittaire : L’amour pourrait frapper à ta porte.",
+        "travail": "Sagittaire : Avance avec détermination.",
+        "sante": "Sagittaire : Prends soin de toi.",
+        "conseil": "Sagittaire : Reste à l'écoute de ton intuition."
+      },
+      "capricorne": {
+        "general": "Capricorne : Journée pleine de surprises.",
+        "amour": "Capricorne : L’amour pourrait frapper à ta porte.",
+        "travail": "Capricorne : Avance avec détermination.",
+        "sante": "Capricorne : Prends soin de toi.",
+        "conseil": "Capricorne : Reste à l'écoute de ton intuition."
+      },
+      "verseau": {
+        "general": "Verseau : Journée pleine de surprises.",
+        "amour": "Verseau : L’amour pourrait frapper à ta porte.",
+        "travail": "Verseau : Avance avec détermination.",
+        "sante": "Verseau : Prends soin de toi.",
+        "conseil": "Verseau : Reste à l'écoute de ton intuition."
+      },
+      "poissons": {
+        "general": "Poissons : Journée pleine de surprises.",
+        "amour": "Poissons : L’amour pourrait frapper à ta porte.",
+        "travail": "Poissons : Avance avec détermination.",
+        "sante": "Poissons : Prends soin de toi.",
+        "conseil": "Poissons : Reste à l'écoute de ton intuition."
+      }
+    },
+    "2025-04-30": {
+      "belier": {
+        "general": "Belier : Journée pleine de surprises.",
+        "amour": "Belier : L’amour pourrait frapper à ta porte.",
+        "travail": "Belier : Avance avec détermination.",
+        "sante": "Belier : Prends soin de toi.",
+        "conseil": "Belier : Reste à l'écoute de ton intuition."
+      },
+      "taureau": {
+        "general": "Taureau : Journée pleine de surprises.",
+        "amour": "Taureau : L’amour pourrait frapper à ta porte.",
+        "travail": "Taureau : Avance avec détermination.",
+        "sante": "Taureau : Prends soin de toi.",
+        "conseil": "Taureau : Reste à l'écoute de ton intuition."
+      },
+      "gemeaux": {
+        "general": "Gemeaux : Journée pleine de surprises.",
+        "amour": "Gemeaux : L’amour pourrait frapper à ta porte.",
+        "travail": "Gemeaux : Avance avec détermination.",
+        "sante": "Gemeaux : Prends soin de toi.",
+        "conseil": "Gemeaux : Reste à l'écoute de ton intuition."
+      },
+      "cancer": {
+        "general": "Cancer : Journée pleine de surprises.",
+        "amour": "Cancer : L’amour pourrait frapper à ta porte.",
+        "travail": "Cancer : Avance avec détermination.",
+        "sante": "Cancer : Prends soin de toi.",
+        "conseil": "Cancer : Reste à l'écoute de ton intuition."
+      },
+      "lion": {
+        "general": "Lion : Journée pleine de surprises.",
+        "amour": "Lion : L’amour pourrait frapper à ta porte.",
+        "travail": "Lion : Avance avec détermination.",
+        "sante": "Lion : Prends soin de toi.",
+        "conseil": "Lion : Reste à l'écoute de ton intuition."
+      },
+      "vierge": {
+        "general": "Vierge : Journée pleine de surprises.",
+        "amour": "Vierge : L’amour pourrait frapper à ta porte.",
+        "travail": "Vierge : Avance avec détermination.",
+        "sante": "Vierge : Prends soin de toi.",
+        "conseil": "Vierge : Reste à l'écoute de ton intuition."
+      },
+      "balance": {
+        "general": "Balance : Journée pleine de surprises.",
+        "amour": "Balance : L’amour pourrait frapper à ta porte.",
+        "travail": "Balance : Avance avec détermination.",
+        "sante": "Balance : Prends soin de toi.",
+        "conseil": "Balance : Reste à l'écoute de ton intuition."
+      },
+      "scorpion": {
+        "general": "Scorpion : Journée pleine de surprises.",
+        "amour": "Scorpion : L’amour pourrait frapper à ta porte.",
+        "travail": "Scorpion : Avance avec détermination.",
+        "sante": "Scorpion : Prends soin de toi.",
+        "conseil": "Scorpion : Reste à l'écoute de ton intuition."
+      },
+      "sagittaire": {
+        "general": "Sagittaire : Journée pleine de surprises.",
+        "amour": "Sagittaire : L’amour pourrait frapper à ta porte.",
+        "travail": "Sagittaire : Avance avec détermination.",
+        "sante": "Sagittaire : Prends soin de toi.",
+        "conseil": "Sagittaire : Reste à l'écoute de ton intuition."
+      },
+      "capricorne": {
+        "general": "Capricorne : Journée pleine de surprises.",
+        "amour": "Capricorne : L’amour pourrait frapper à ta porte.",
+        "travail": "Capricorne : Avance avec détermination.",
+        "sante": "Capricorne : Prends soin de toi.",
+        "conseil": "Capricorne : Reste à l'écoute de ton intuition."
+      },
+      "verseau": {
+        "general": "Verseau : Journée pleine de surprises.",
+        "amour": "Verseau : L’amour pourrait frapper à ta porte.",
+        "travail": "Verseau : Avance avec détermination.",
+        "sante": "Verseau : Prends soin de toi.",
+        "conseil": "Verseau : Reste à l'écoute de ton intuition."
+      },
+      "poissons": {
+        "general": "Poissons : Journée pleine de surprises.",
+        "amour": "Poissons : L’amour pourrait frapper à ta porte.",
+        "travail": "Poissons : Avance avec détermination.",
+        "sante": "Poissons : Prends soin de toi.",
+        "conseil": "Poissons : Reste à l'écoute de ton intuition."
+      }
     }
   }
 }
