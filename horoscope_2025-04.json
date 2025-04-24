@@ -1980,91 +1980,91 @@
       }
     },
     "2025-04-24": {
-      "belier": {
-        "general": "Belier : Journée pleine de surprises.",
-        "amour": "Belier : L’amour pourrait frapper à ta porte.",
-        "travail": "Belier : Avance avec détermination.",
-        "sante": "Belier : Prends soin de toi.",
-        "conseil": "Belier : Reste à l'écoute de ton intuition."
-      },
-      "taureau": {
-        "general": "Taureau : Journée pleine de surprises.",
-        "amour": "Taureau : L’amour pourrait frapper à ta porte.",
-        "travail": "Taureau : Avance avec détermination.",
-        "sante": "Taureau : Prends soin de toi.",
-        "conseil": "Taureau : Reste à l'écoute de ton intuition."
-      },
-      "gemeaux": {
-        "general": "Gemeaux : Journée pleine de surprises.",
-        "amour": "Gemeaux : L’amour pourrait frapper à ta porte.",
-        "travail": "Gemeaux : Avance avec détermination.",
-        "sante": "Gemeaux : Prends soin de toi.",
-        "conseil": "Gemeaux : Reste à l'écoute de ton intuition."
-      },
-      "cancer": {
-        "general": "Cancer : Journée pleine de surprises.",
-        "amour": "Cancer : L’amour pourrait frapper à ta porte.",
-        "travail": "Cancer : Avance avec détermination.",
-        "sante": "Cancer : Prends soin de toi.",
-        "conseil": "Cancer : Reste à l'écoute de ton intuition."
-      },
-      "lion": {
-        "general": "Lion : Journée pleine de surprises.",
-        "amour": "Lion : L’amour pourrait frapper à ta porte.",
-        "travail": "Lion : Avance avec détermination.",
-        "sante": "Lion : Prends soin de toi.",
-        "conseil": "Lion : Reste à l'écoute de ton intuition."
-      },
-      "vierge": {
-        "general": "Vierge : Journée pleine de surprises.",
-        "amour": "Vierge : L’amour pourrait frapper à ta porte.",
-        "travail": "Vierge : Avance avec détermination.",
-        "sante": "Vierge : Prends soin de toi.",
-        "conseil": "Vierge : Reste à l'écoute de ton intuition."
-      },
-      "balance": {
-        "general": "Balance : Journée pleine de surprises.",
-        "amour": "Balance : L’amour pourrait frapper à ta porte.",
-        "travail": "Balance : Avance avec détermination.",
-        "sante": "Balance : Prends soin de toi.",
-        "conseil": "Balance : Reste à l'écoute de ton intuition."
-      },
-      "scorpion": {
-        "general": "Scorpion : Journée pleine de surprises.",
-        "amour": "Scorpion : L’amour pourrait frapper à ta porte.",
-        "travail": "Scorpion : Avance avec détermination.",
-        "sante": "Scorpion : Prends soin de toi.",
-        "conseil": "Scorpion : Reste à l'écoute de ton intuition."
-      },
-      "sagittaire": {
-        "general": "Sagittaire : Journée pleine de surprises.",
-        "amour": "Sagittaire : L’amour pourrait frapper à ta porte.",
-        "travail": "Sagittaire : Avance avec détermination.",
-        "sante": "Sagittaire : Prends soin de toi.",
-        "conseil": "Sagittaire : Reste à l'écoute de ton intuition."
-      },
-      "capricorne": {
-        "general": "Capricorne : Journée pleine de surprises.",
-        "amour": "Capricorne : L’amour pourrait frapper à ta porte.",
-        "travail": "Capricorne : Avance avec détermination.",
-        "sante": "Capricorne : Prends soin de toi.",
-        "conseil": "Capricorne : Reste à l'écoute de ton intuition."
-      },
-      "verseau": {
-        "general": "Verseau : Journée pleine de surprises.",
-        "amour": "Verseau : L’amour pourrait frapper à ta porte.",
-        "travail": "Verseau : Avance avec détermination.",
-        "sante": "Verseau : Prends soin de toi.",
-        "conseil": "Verseau : Reste à l'écoute de ton intuition."
-      },
-      "poissons": {
-        "general": "Poissons : Journée pleine de surprises.",
-        "amour": "Poissons : L’amour pourrait frapper à ta porte.",
-        "travail": "Poissons : Avance avec détermination.",
-        "sante": "Poissons : Prends soin de toi.",
-        "conseil": "Poissons : Reste à l'écoute de ton intuition."
-      }
-    },
+  "belier": {
+    "general": "Belier : Ta journée commence comme une tartine qui tombe du bon côté.",
+    "amour": "Belier : Coup de cœur imprévu ou coup de soleil sur le cœur... Dans les deux cas, ça chauffe.",
+    "travail": "Belier : Tu bosses comme une licorne sous caféine : brillant·e mais légèrement en freestyle.",
+    "sante": "Belier : Fais une pause. Même les super-héros ont besoin d’un chocolat chaud.",
+    "conseil": "Belier : Danse sans raison, ça libère plus d’énergie qu’un espresso double."
+  },
+  "taureau": {
+    "general": "Taureau : Aujourd’hui, tu pourrais faire des étincelles… ou griller une prise. À toi de voir.",
+    "amour": "Taureau : Tu es aussi séduisant·e qu’un croissant chaud. Laisse venir les gourmands.",
+    "travail": "Taureau : Si on te cherche, on te trouve… caché·e sous une pile de post-its.",
+    "sante": "Taureau : Un fruit, un légume et une sieste : l’équilibre parfait.",
+    "conseil": "Taureau : Ne prends pas la vie trop au sérieux. Personne n’en sort vivant."
+  },
+  "gemeaux": {
+    "general": "Gemeaux : Une idée de génie ou un délire complet ? Peu importe, lance-toi.",
+    "amour": "Gemeaux : Tu changes d’avis toutes les 2 minutes, mais c’est aussi ton charme.",
+    "travail": "Gemeaux : Multitâche, multitalent, multivers : tu gères tout, même l’impossible.",
+    "sante": "Gemeaux : Tes batteries sont pleines… sauf si tu oublies de dormir (encore).",
+    "conseil": "Gemeaux : Parle à une plante aujourd’hui. Elle ne jugera pas, elle."
+  },
+  "cancer": {
+    "general": "Cancer : Ta coquille te protège, mais aujourd’hui tu pourrais bien en sortir… avec panache.",
+    "amour": "Cancer : Tes émotions font du trampoline, mais au fond tu veux juste un câlin XXL.",
+    "travail": "Cancer : Tu es aussi indispensable qu’un câble de chargeur… et un peu aussi emmêlé·e.",
+    "sante": "Cancer : Hydratation, respiration, et une playlist qui déchire. T’as le kit du bien-être.",
+    "conseil": "Cancer : Si tu ne sais pas quoi faire, fais un gâteau. Ça marche toujours."
+  },
+  "lion": {
+    "general": "Lion : C’est ton jour pour briller. Et si personne ne le remarque, rugis un bon coup.",
+    "amour": "Lion : Tu séduis comme un rayon de soleil en boîte de nuit. Inattendu, mais irrésistible.",
+    "travail": "Lion : Tu prends les commandes du navire… même s’il s’agit d’un pédalo.",
+    "sante": "Lion : Trop de flemme tue la flemme. Remue-toi et tu te sentiras vivant·e.",
+    "conseil": "Lion : Si t’as un miroir sous la main, fais-toi un clin d’œil. T’as la classe."
+  },
+  "vierge": {
+    "general": "Vierge : Aujourd’hui, la perfection te fuit. Et c’est pas plus mal.",
+    "amour": "Vierge : Tu analyses tout ? Essaie juste de sentir les papillons sans les disséquer.",
+    "travail": "Vierge : Tu coches des cases comme un·e champion·ne. Même celles qui n’existent pas.",
+    "sante": "Vierge : Méfie-toi des to-do lists trop longues, elles épuisent rien qu’en les lisant.",
+    "conseil": "Vierge : Fais un truc au hasard. Genre sauter sur place ou appeler Mamie."
+  },
+  "balance": {
+    "general": "Balance : T’as autant d’équilibre qu’un chat sur un trampoline aujourd’hui. Mais tu retombes toujours sur tes pattes.",
+    "amour": "Balance : Séduction fine ou grosse blague douteuse ? Teste les deux, tu verras bien.",
+    "travail": "Balance : Tu sais ce que tu dois faire. Mais Netflix sait aussi ce qu’il te propose.",
+    "sante": "Balance : Bois de l’eau, respire profondément, et dis-toi que tout ira bien. (C’est presque vrai.)",
+    "conseil": "Balance : Ne demande pas l’avis de tout le monde. Suis ton flair de l’espace."
+  },
+  "scorpion": {
+    "general": "Scorpion : Tu sens un complot ? C’est peut-être juste ton chat qui veut des croquettes.",
+    "amour": "Scorpion : Tu brûles d’amour… ou d’impatience. Dans les deux cas, c’est chaud.",
+    "travail": "Scorpion : Tu avances dans l’ombre… mais on voit bien que c’est toi le boss.",
+    "sante": "Scorpion : Tu vas bien. Sauf si tu pars en analyse existentielle à 3h du mat.",
+    "conseil": "Scorpion : Sois mystérieux·se, mais pense à sourire. C’est plus déstabilisant."
+  },
+  "sagittaire": {
+    "general": "Sagittaire : Tu vis ta journée comme un jeu vidéo : avec des bonus surprises et des sauts dans tous les sens.",
+    "amour": "Sagittaire : Si tu parles avec ton cœur, évite qu’il parte en freestyle façon karaoké.",
+    "travail": "Sagittaire : Ton esprit est ailleurs. Peut-être sur une plage. Ou sur la Lune.",
+    "sante": "Sagittaire : Besoin d’air ? Sors, marche, saute, roule… mais évite de voler (pas encore).",
+    "conseil": "Sagittaire : Fonce ! Même si tu ne sais pas encore où. C’est ça, l’aventure."
+  },
+  "capricorne": {
+    "general": "Capricorne : Tu fais ton chemin comme une tortue ninja : lentement mais sûrement (et stylé).",
+    "amour": "Capricorne : Les émotions ? Tu préfères les planifier. Mais aujourd’hui, elles débarquent sans rendez-vous.",
+    "travail": "Capricorne : Sérieux·se comme un lundi matin, efficace comme une cafetière pleine.",
+    "sante": "Capricorne : Pense à t’étirer. Tu n’es pas un piquet de tente.",
+    "conseil": "Capricorne : Lâche un peu la pression. Même les volcans ont des vacances."
+  },
+  "verseau": {
+    "general": "Verseau : Tu es l’ovni du jour. Et ça, c’est une bonne nouvelle.",
+    "amour": "Verseau : L’amour te surprend… souvent pendant que tu inventes une machine à bulles temporelles.",
+    "travail": "Verseau : Tu bosses à ta façon. Personne ne comprend, mais tout le monde admire.",
+    "sante": "Verseau : Mange, bois, dors. Pas dans cet ordre. Ou si. Fais ce que tu veux.",
+    "conseil": "Verseau : Sois bizarre. Le monde a besoin de plus de licornes en baskets."
+  },
+  "poissons": {
+    "general": "Poissons : Tu rêves éveillé·e ? Super. Mais évite de traverser la rue comme ça.",
+    "amour": "Poissons : Tu tombes amoureux·se comme d’autres tombent dans une piscine : sans prévenir.",
+    "travail": "Poissons : Tu crées, tu flottes, tu improvises… mais attention au plafond de la réalité.",
+    "sante": "Poissons : Méditation, musique douce et chaussettes moelleuses = combo magique.",
+    "conseil": "Poissons : Laisse-toi porter. Mais garde une pagaie, on sait jamais."
+  }
+},
     "2025-04-25": {
       "belier": {
         "general": "Belier : Journée pleine de surprises.",
