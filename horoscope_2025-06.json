@@ -2238,92 +2238,92 @@
       }
     },
     "2025-06-27": {
-  "belier": {
-    "general": "Bélier : Tu fonces tête baissée comme d’hab… et tu t’étonnes des murs.",
-    "amour": "Bélier : Si t’arrêtais de draguer comme un tractopelle, peut-être que ça passerait.",
-    "travail": "Bélier : Tu bosses à 200%… dans la mauvaise direction. Bravo champion.",
-    "sante": "Bélier : Ton corps te supplie de dormir. Tu réponds avec un 5e café.",
-    "conseil": "Bélier : Essaie l’écoute active. Ou au moins ferme-la 5 minutes, c’est un début."
+  "bélier": {
+    "general": "Tu fonces tête baissée comme d’hab… et tu t’étonnes des murs.",
+    "amour": "Si t’arrêtais de draguer comme un tractopelle, peut-être que ça passerait.",
+    "travail": "Tu bosses à 200%… dans la mauvaise direction. Bravo champion.",
+    "sante": "Ton corps te supplie de dormir. Tu réponds avec un 5e café.",
+    "conseil": "Essaie l’écoute active. Ou au moins ferme-la 5 minutes, c’est un début."
   },
   "taureau": {
-    "general": "Taureau : T’as la flemme aujourd’hui ? Normal, c’est ton talent principal.",
-    "amour": "Taureau : Tu veux du love sans te bouger. Ça s’appelle regarder Netflix seul.",
-    "travail": "Taureau : Ta productivité est en PLS. Même ton ordi baille.",
-    "sante": "Taureau : Trop de raclette, pas assez de squats. Ton cul te remercie.",
-    "conseil": "Taureau : Bouge. Un peu. Allez. Non ? Ok, tant pis."
+    "general": "T’as la flemme aujourd’hui ? Normal, c’est ton talent principal.",
+    "amour": "Tu veux du love sans te bouger. Ça s’appelle regarder Netflix seul.",
+    "travail": "Ta productivité est en PLS. Même ton ordi baille.",
+    "sante": "Trop de raclette, pas assez de squats. Ton cul te remercie.",
+    "conseil": "Bouge. Un peu. Allez. Non ? Ok, tant pis."
   },
-  "gemeaux": {
-    "general": "Gémeaux : Deux personnalités, zéro décision. Classique.",
-    "amour": "Gémeaux : Tu flirtes, tu ghostes, tu reviens… Tu dates ou tu joues au yoyo ?",
-    "travail": "Gémeaux : Tu brilles en réunion. Mais t’as toujours rien foutu depuis 3 jours.",
-    "sante": "Gémeaux : Ton cerveau tourne en boucle. Essaie la méditation. Ou un mojito.",
-    "conseil": "Gémeaux : Choisis une personnalité pour la journée. Et reste dessus, please."
+  "gémeaux": {
+    "general": " eux personnalités, zéro décision. Classique.",
+    "amour": "Tu flirtes, tu ghostes, tu reviens… Tu dates ou tu joues au yoyo ?",
+    "travail": "Tu brilles en réunion. Mais t’as toujours rien foutu depuis 3 jours.",
+    "sante": "Ton cerveau tourne en boucle. Essaie la méditation. Ou un mojito.",
+    "conseil": "Choisis une personnalité pour la journée. Et reste dessus, please."
   },
   "cancer": {
-    "general": "Cancer : Trop gentil, trop mignon… et tu te fais encore marcher dessus.",
-    "amour": "Cancer : Tu veux de la tendresse, mais t’attires que des boulets. Force à toi.",
-    "travail": "Cancer : Tu bosses bien mais tu te fais doubler par un stagiaire sociopathe.",
-    "sante": "Cancer : T’as mal au dos ? C’est normal, t’as porté tout le monde cette semaine.",
-    "conseil": "Cancer : Pose tes limites. Et les gens toxiques, tu les bloques. Net."
+    "general": "Trop gentil, trop mignon… et tu te fais encore marcher dessus.",
+    "amour": "Tu veux de la tendresse, mais t’attires que des boulets. Force à toi.",
+    "travail": "Tu bosses bien mais tu te fais doubler par un stagiaire sociopathe.",
+    "sante": "T’as mal au dos ? C’est normal, t’as porté tout le monde cette semaine.",
+    "conseil": "Pose tes limites. Et les gens toxiques, tu les bloques. Net."
   },
   "lion": {
-    "general": "Lion : Tu rayonnes… mais t’éblouis toi-même.",
-    "amour": "Lion : T’as besoin d’un miroir plus que d’un partenaire. Narcisse, sors de ce corps.",
-    "travail": "Lion : T’as envie de diriger le monde ? Commence par rendre ton rapport en temps.",
-    "sante": "Lion : Tu veux un corps de rêve ? Arrête les cookies à minuit.",
-    "conseil": "Lion : Redescends d’un étage. Les gens autour existent aussi."
+    "general": "Tu rayonnes… mais t’éblouis toi-même.",
+    "amour": "T’as besoin d’un miroir plus que d’un partenaire. Narcisse, sors de ce corps.",
+    "travail": "T’as envie de diriger le monde ? Commence par rendre ton rapport en temps.",
+    "sante": "Tu veux un corps de rêve ? Arrête les cookies à minuit.",
+    "conseil": "Redescends d’un étage. Les gens autour existent aussi."
   },
   "vierge": {
-    "general": "Vierge : Tout est carré. Même ton fun est organisé sous Excel.",
-    "amour": "Vierge : Tu cherches l’amour parfait… t’auras un chat. Plus simple.",
-    "travail": "Vierge : Travail impeccable. Sociabilité : échec critique.",
-    "sante": "Vierge : T’as googlé un bouton ? Stop. T’es pas mourant.",
-    "conseil": "Vierge : Lâche un peu prise. Le monde ne s’écroulera pas (peut-être)."
+    "general": "Tout est carré. Même ton fun est organisé sous Excel.",
+    "amour": "Tu cherches l’amour parfait… t’auras un chat. Plus simple.",
+    "travail": "Travail impeccable. Sociabilité : échec critique.",
+    "sante": "T’as googlé un bouton ? Stop. T’es pas mourant.",
+    "conseil": "Lâche un peu prise. Le monde ne s’écroulera pas (peut-être)."
   },
   "balance": {
-    "general": "Balance : T’hésites encore à lire cet horoscope ? Évidemment.",
-    "amour": "Balance : T’as 3 crushs en même temps. Bravo pour le chaos émotionnel.",
-    "travail": "Balance : Tu sais pas dire non. Tu finis avec le taf de tout l’open space.",
-    "sante": "Balance : Ton énergie est au max… à 2h du mat. Super.",
-    "conseil": "Balance : Tranche. Même au pif. Mais tranche, bordel."
+    "general": "T’hésites encore à lire cet horoscope ? Évidemment.",
+    "amour": "T’as 3 crushs en même temps. Bravo pour le chaos émotionnel.",
+    "travail": "Tu sais pas dire non. Tu finis avec le taf de tout l’open space.",
+    "sante": "Ton énergie est au max… à 2h du mat. Super.",
+    "conseil": "Tranche. Même au pif. Mais tranche, bordel."
   },
   "scorpion": {
-    "general": "Scorpion : Intense, mystérieux… et relou dès qu’on gratte un peu.",
-    "amour": "Scorpion : Tu veux tout contrôler. Mais l’amour, c’est pas un escape game.",
-    "travail": "Scorpion : Manipuler ton boss, c’est brillant. Jusqu’au jour où ça foire.",
-    "sante": "Scorpion : T’as l’air calme, mais ton système nerveux est en rave party.",
-    "conseil": "Scorpion : Respire. T’es pas obligé de tuer symboliquement quelqu’un chaque jour."
+    "general": "Intense, mystérieux… et relou dès qu’on gratte un peu.",
+    "amour": "Tu veux tout contrôler. Mais l’amour, c’est pas un escape game.",
+    "travail": "Manipuler ton boss, c’est brillant. Jusqu’au jour où ça foire.",
+    "sante": "T’as l’air calme, mais ton système nerveux est en rave party.",
+    "conseil": "Respire. T’es pas obligé de tuer symboliquement quelqu’un chaque jour."
   },
   "sagittaire": {
-    "general": "Sagittaire : Tu veux partir à Bali mais t’as 12€ sur ton compte.",
-    "amour": "Sagittaire : Les relations longues ? Tu préfères les vols sans escale.",
-    "travail": "Sagittaire : Tu bosses bien… quand ça t’amuse. Donc jamais.",
-    "sante": "Sagittaire : Trop de soirées, pas assez de siestes. Ton foie pleure.",
-    "conseil": "Sagittaire : T’as le droit de fuir… mais à force, t’es juste paumé."
+    "general": "Tu veux partir à Bali mais t’as 12€ sur ton compte.",
+    "amour": "Les relations longues ? Tu préfères les vols sans escale.",
+    "travail": "Tu bosses bien… quand ça t’amuse. Donc jamais.",
+    "sante": "Trop de soirées, pas assez de siestes. Ton foie pleure.",
+    "conseil": "T’as le droit de fuir… mais à force, t’es juste paumé."
   },
   "capricorne": {
-    "general": "Capricorne : Responsable, fiable… chiant comme la pluie aussi.",
-    "amour": "Capricorne : L’amour te fait peur. Mais les tableaux Excel, ça va.",
-    "travail": "Capricorne : Tu portes l’équipe. Littéralement. Et tu râles même pas.",
-    "sante": "Capricorne : Ton sommeil est réglé comme une horloge suisse. Psycho-rigide va.",
-    "conseil": "Capricorne : Prends un risque. Genre rater ta to-do liste. Une fois."
+    "general": "Responsable, fiable… chiant comme la pluie aussi.",
+    "amour": "L’amour te fait peur. Mais les tableaux Excel, ça va.",
+    "travail": "Tu portes l’équipe. Littéralement. Et tu râles même pas.",
+    "sante": "Ton sommeil est réglé comme une horloge suisse. Psycho-rigide va.",
+    "conseil": "Prends un risque. Genre rater ta to-do liste. Une fois."
   },
   "verseau": {
-    "general": "Verseau : T’es spécial. Tellement que personne pige ce que tu veux.",
-    "amour": "Verseau : Tu veux de l’indépendance et du love. Tu veux Tinder + une secte.",
-    "travail": "Verseau : T’as 10 idées par heure. Zéro concrétisation. Respect.",
-    "sante": "Verseau : Tu t’alimentes comme un alien végane en burnout.",
-    "conseil": "Verseau : Reste perché si tu veux. Mais prends une échelle pour redescendre parfois."
+    "general": "T’es spécial. Tellement que personne pige ce que tu veux.",
+    "amour": "Tu veux de l’indépendance et du love. Tu veux Tinder + une secte.",
+    "travail": "T’as 10 idées par heure. Zéro concrétisation. Respect.",
+    "sante": "Tu t’alimentes comme un alien végane en burnout.",
+    "conseil": "Reste perché si tu veux. Mais prends une échelle pour redescendre parfois."
   },
   "poissons": {
-    "general": "Poissons : T’es dans ton monde. On t’y rejoint quand t’as du réseau.",
-    "amour": "Poissons : Tu tombes amoureux d’un regard… ou d’un pigeon. C’est confus.",
-    "travail": "Poissons : T’as rêvé que tu travaillais. C’est déjà ça.",
-    "sante": "Poissons : Ton corps flotte, ton esprit nage. Bois de l’eau. Beaucoup.",
-    "conseil": "Poissons : Redescends de ta bulle. Mais doucement, on veut pas te brusquer."
+    "general": "T’es dans ton monde. On t’y rejoint quand t’as du réseau.",
+    "amour": "Tu tombes amoureux d’un regard… ou d’un pigeon. C’est confus.",
+    "travail": "T’as rêvé que tu travaillais. C’est déjà ça.",
+    "sante": "Ton corps flotte, ton esprit nage. Bois de l’eau. Beaucoup.",
+    "conseil": "Redescends de ta bulle. Mais doucement, on veut pas te brusquer."
   }
     },
-    "2025-04-29": {
+    "2025-06-28": {
       "belier": {
         "general": "Belier : Journée pleine de surprises.",
         "amour": "Belier : L’amour pourrait frapper à ta porte.",
@@ -2409,7 +2409,7 @@
         "conseil": "Poissons : Reste à l'écoute de ton intuition."
       }
     },
-    "2025-04-30": {
+    "2025-04-29": {
       "belier": {
         "general": "Belier : Journée pleine de surprises.",
         "amour": "Belier : L’amour pourrait frapper à ta porte.",
